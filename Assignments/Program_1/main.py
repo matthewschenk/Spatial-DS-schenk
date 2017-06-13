@@ -445,13 +445,36 @@ if __name__ == '__main__':
     # df.add_polygons(['TX','NY','ME','Kenya'])
     df.add_polygons(['Spain','France','Belgium','Italy','Ireland','Scotland','Greece','Germany','Egypt','Morocco','India'])
 
-
+    print("Hello World")
+    print(45)
+    print('Hello World')
+    black = (0,0,0)
     # Main loop
     running = True
     while running:
         gd.draw_polygons()
         
         for event in pygame.event.get():
+            # While in the gaming loop, if the mouse is clicked, get the position of the cursor and save them into variables mx and my, and print them out
+            if event.type == pygame.MOUSEBUTTONDOWN:
+                mx, my = pygame.mouse.get_pos()
+                print(mx)
+                print(', ')
+                print(my)
+                # A loop to go through the list of polygons, have their lat and long adjusted to a list of touples
+                for poly in gd.polygons:
+                    adjusted = []
+                    for p in poly:
+                        x,y = p
+                        adjusted.append(gd.convertGeoToPixel(x,y))
+                    # Call point inside polygon to return true or false for each polygon in list of polygons // has issues
+                    inside = point_inside_polygon(mx,my,adjusted)
+                    if inside:
+                        # If the point is inside the polygon continue forward by outlining the polygon
+                        pygame.draw.polygon(gd.screen, black, adjusted, 2)
+                        message = gd.polygons[poly]
+
+
             if event.type == pygame.QUIT:
                 running = False
             pygame.display.flip()
