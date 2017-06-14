@@ -237,17 +237,27 @@ class DrawGeoJson(object):
         self.screen = screen    # window handle for pygame drawing
 
         self.polygons = []      # list of lists (polygons) to be drawn
+        self.boxes = []         # list of lists (polygon boxes) to be drawn
 
         self.all_lats = []      # list for all lats so we can find mins and max's
         self.all_lons = []
+        self.box_lats = []
+        self.box_lons = []
+
 
         self.mapWidth = width       # width of the map in pixels
         self.mapHeight = height     # height of the map in pixels
         self.mapLonLeft = -180.0    # extreme left longitude
+        self.boxLonLeft = -180.0
         self.mapLonRight = 180.0    # extreme right longitude
+        self.boxLonRight = 180.0
         self.mapLonDelta = self.mapLonRight - self.mapLonLeft # difference in longitudes
+        self.boxLonDelta = self.boxLonRight - self.boxLonLeft
         self.mapLatBottom = 0.0     # extreme bottom latitude
+        self.boxLatBottom = 0.0
+        self.boxLatTop = 0.0
         self.mapLatBottomDegree = self.mapLatBottom * math.pi / 180.0 # bottom in degrees
+        self.boxLatBottomDegree = self.boxLatBottom * math.pi / 180.0
 
         self.colors = Colors(DIRPATH + '/colors.json')
 
@@ -288,6 +298,22 @@ class DrawGeoJson(object):
         self.__update_bounds()
 
 
+    def add_box(self,poly):
+        """
+        Add a polygon to local collection to be drawn later
+        Args:
+            poly (list): list of lat/lons
+
+        Returns:
+            None
+        """
+        for p in poly:
+            x,y = p
+            self.box_lons.append(x)
+            self.box_lats.append(y)
+        poly = self.__update_box_bounds()
+        self.boxes.append(poly)
+
     def draw_polygons(self):
         """
         Draw our polygons to the screen
@@ -304,6 +330,19 @@ class DrawGeoJson(object):
                 x,y = p
                 adjusted.append(self.convertGeoToPixel(x,y))
             pygame.draw.polygon(self.screen, self.colors.get_random_color(), adjusted, 0)
+    
+    def draw_boxes(self,box):
+        """
+        Draw our box to the screen
+        Args:
+            A list of tuples
+
+        Returns:
+            None
+        """ 
+        black = (0,0,0)
+        pygame.draw.polygon(self.screen, black, box, 5)
+
 
     def __update_bounds(self):
         """
@@ -321,6 +360,59 @@ class DrawGeoJson(object):
         self.mapLonDelta = self.mapLonRight - self.mapLonLeft  
         self.mapLatBottom = min(self.all_lats)
         self.mapLatBottomDegree = self.mapLatBottom * math.pi / 180.0
+
+    def __update_box_bounds(self):
+        """
+        Creates a list of 4 lat,lon points that will be used as a polygon
+        which consists of the 4 extreme corners
+        Args:
+            None
+
+        Returns:
+            List of lat,lon to draw polygon box
+        """  
+        self.boxLonLeft = min(self.box_lons)
+        self.boxLonRight = max(self.box_lons)
+        self.boxLonDelta = self.boxLonRight - self.boxLonLeft  
+        self.boxLatBottom = min(self.box_lats)
+        self.boxLatTop = max(self.box_lats)
+        self.boxLatBottomDegree = self.boxLatBottom * math.pi / 180.0
+
+        square = []
+        square.append((self.boxLatBottom, self.boxLonLeft))
+        square.append((self.boxLatTop, self.boxLonLeft))
+        square.append((self.boxLatBottom, self.boxLonRight))
+        square.append((self.boxLatTop, self.boxLonRight))
+        return square
+
+    def make_box(self, box):
+        """
+        Creates a list of 4 x,y coordinates that will then draw a bounding box
+        Args:
+            List of Tuples
+        Returns
+            List of Min/Max Tuples, 4 in total
+        """
+        BoxTop = -10000000.0
+        BoxBottom = 100000000.0
+        BoxLeft = -100000000.0
+        BoxRight = 100000000.0
+        for b in box:
+            x,y = b
+            if BoxTop <= y:
+                BoxTop = y
+            if BoxBottom >= y:
+                BoxBottom = y
+            if BoxLeft <= x:
+                BoxLeft = x
+            if BoxRight >= x:
+                BoxRight = x
+        square = []
+        square.append((BoxLeft, BoxTop))
+        square.append((BoxLeft, BoxBottom))
+        square.append((BoxRight, BoxBottom))
+        square.append((BoxRight, BoxTop))
+        return square
 
 
     def __str__(self):
@@ -412,6 +504,7 @@ def mercator_projection(latlng,zoom=0,tile_size=256):
     return (x,y)
 
 if __name__ == '__main__':
+    pygame.init()
 
     # if there are no command line args
     if len(sys.argv) == 1:
@@ -445,9 +538,11 @@ if __name__ == '__main__':
     # df.add_polygons(['TX','NY','ME','Kenya'])
     df.add_polygons(['Spain','France','Belgium','Italy','Ireland','Scotland','Greece','Germany','Egypt','Morocco','India'])
 
-    print("Hello World")
-    print(45)
-    print('Hello World')
+    print("Matthew Schenk Version 1")
+    q = 0.0
+    basicfont = pygame.font.SysFont(None, 30)
+    label = "Test"
+
     black = (0,0,0)
     # Main loop
     running = True
@@ -457,6 +552,7 @@ if __name__ == '__main__':
         for event in pygame.event.get():
             # While in the gaming loop, if the mouse is clicked, get the position of the cursor and save them into variables mx and my, and print them out
             if event.type == pygame.MOUSEBUTTONDOWN:
+                message = "Not a Country"
                 mx, my = pygame.mouse.get_pos()
                 print(mx)
                 print(', ')
@@ -464,17 +560,29 @@ if __name__ == '__main__':
                 # A loop to go through the list of polygons, have their lat and long adjusted to a list of touples
                 for poly in gd.polygons:
                     adjusted = []
+                    a = 1
                     for p in poly:
+                        if a == 1:
+                            q = p
+                        a = a + 1
                         x,y = p
                         adjusted.append(gd.convertGeoToPixel(x,y))
-                    # Call point inside polygon to return true or false for each polygon in list of polygons // has issues
+                    # Call point inside polygon to return true or false for each polygon in list of polygons
                     inside = point_inside_polygon(mx,my,adjusted)
                     if inside:
                         # If the point is inside the polygon continue forward by outlining the polygon
-                        pygame.draw.polygon(gd.screen, black, adjusted, 2)
+                        pygame.draw.polygon(gd.screen, black, adjusted, 5)
+                        # Making and drawing bounding box
+                        box = gd.make_box(adjusted)
+                        gd.draw_boxes(box)
+                        # Printing name to the screen
+                        for c in df.wc.content['features']:
+                            if q == c['geometry']['coordinates']:
+                                message = c['properties']['name']
+                            label = basicfont.render(message, True, (0,0,0), (255,255,0))
+                          #  screen.blit(label, (100, 100)                           
+
                         
-
-
             if event.type == pygame.QUIT:
                 running = False
             pygame.display.flip()
