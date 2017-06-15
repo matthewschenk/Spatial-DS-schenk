@@ -316,7 +316,7 @@ class DrawGeoJson(object):
         #pp.pprint(self.adjusted_poly_dict)
         for country,polys in self.adjusted_poly_dict.items():
             new_polys = []
-            print(country)
+            #print(country)
             for poly in polys:
                 new_poly = []
                 for p in poly:
@@ -324,7 +324,7 @@ class DrawGeoJson(object):
                     new_poly.append(self.convertGeoToPixel(x,y))
                 new_polys.append(new_poly)
             self.adjusted_poly_dict[country] = new_polys
-        pp.pprint(self.adjusted_poly_dict)
+        #pp.pprint(self.adjusted_poly_dict)
         
 
 
@@ -478,22 +478,22 @@ class DrawingFacade(object):
         """ 
         for id in ids:
             if self.wc.key_exists(id):
-                self.__add_country(self.wc.get_country(id))
+                self.__add_country(self.wc.get_country(id),id)
             elif self.sb.key_exists(id):
-                self.__add_state(self.sb.get_state(id))         
+                self.__add_state(self.sb.get_state(id),id)         
 
-    def __add_country(self,country):
+    def __add_country(self,country,id):
         for polys in country:
             for poly in polys:
                 if type(poly[0][0]) is float:
-                    gd.add_polygon(poly)
+                    gd.add_polygon(poly,id)
                 else:
                     for sub_poly in poly:
-                        self.gd.add_polygon(sub_poly)
+                        self.gd.add_polygon(sub_poly,id)
 
-    def __add_state(self,state):
+    def __add_state(self,state,id):
         for poly in state:
-            self.gd.add_polygon(poly)
+            self.gd.add_polygon(poly,id)
 
 
 
@@ -569,18 +569,15 @@ if __name__ == '__main__':
     df.add_polygons(['TX', 'Spain','France','Belgium','Italy','Ireland','Scotland','Greece','Germany','Egypt','Morocco','India'])
 
     print("Matthew Schenk Version 1")
-    (q,z) = (0.0,0.0)
     basicfont = pygame.font.SysFont(None, 30)
     label = "Test"
 
     black = (0,0,0)
     # Main loop
     gd.adjust_poly_dictionary()
-    #print( gd.adjusted_poly_dict['Spain'])
-    print(gd.adjusted_poly_dict)
-    for k,v in gd.adjusted_poly_dict.items():
-        print(k)
-        print(v)
+    #print(gd.adjusted_poly_dict['India'])
+    #print(gd.adjusted_poly_dict)
+    
     running = True
     while running:
         gd.draw_polygons()
@@ -596,32 +593,25 @@ if __name__ == '__main__':
                 print(', ')
                 print(my)
                 # A loop to go through the list of polygons, have their lat and long adjusted to a list of touples
-                for poly in gd.polygons:
+                for c, poly in gd.adjusted_poly_dict.items():
                     adjusted = []
-                    a = 1
-                    for p in poly:
-                        if a == 1:
-                            q,z = p
-                        a = a + 1
-                        x,y = p
-                        adjusted.append(gd.convertGeoToPixel(x,y))
+                    for polys in poly:
+                        for isles in polys:
+                            x,y = isles
+                            adjusted.append((x,y))
                     # Call point inside polygon to return true or false for each polygon in list of polygons
-                    inside = point_inside_polygon(mx,my,adjusted)
-                    if inside:
-                        # If the point is inside the polygon continue forward by outlining the polygon
-                        pygame.draw.polygon(gd.screen, black, adjusted, 10)
-                        # Making and drawing bounding box
-                        box = gd.make_box(adjusted)
-                        gd.draw_boxes(box)
-                        # Printing name to the screen
-                        for c in df.wc.content['features']:
-                            if (q,z) == c['geometry']['coordinates']:
-                                message = c['properties']['name']
-                        #for c in gd.adjusted_poly_dict['key']:
-                         #   if adjusted == c['value']:
-                          #      message = c['key']
-                        label = basicfont.render(message, True, (0,0,0), (255,255,0))
-                        screen.blit(label, (150, 150))
+                            inside = point_inside_polygon(mx,my,adjusted)
+                        if inside:
+                            # If the point is inside the polygon continue forward by outlining the polygon
+                            pygame.draw.polygon(gd.screen, black, adjusted, 10)
+                            # Making and drawing bounding box
+                            box = gd.make_box(adjusted)
+                            gd.draw_boxes(box)
+                            # Printing name to the screen
+                            message = c
+                            print(message)
+                            label = basicfont.render(message, True, (0,0,0), (255,255,0))
+                            screen.blit(label, (150, 150))
                                                  
 
                         
