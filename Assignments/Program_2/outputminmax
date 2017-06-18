@@ -1,0 +1,38 @@
+Matthew Schenk
+CMPS 5323 - Dr. Griffin
+Program 2: NYC Crime
+Finished Reading in Crime Data for filtered_crimes_bronx.csv
+1002.124
+1044.296
+428.18
+472.467
+Finished Appending List for filtered_crimes_bronx.csv
+Finished Reading in Crime Data for filtered_crimes_brooklyn.csv
+972.926
+1024.227
+472.467
+552.383
+Finished Appending List for filtered_crimes_brooklyn.csv
+Finished Reading in Crime Data for filtered_crimes_manhattan.csv
+979.277
+1016.268
+442.574
+505.155
+Finished Appending List for filtered_crimes_manhattan.csv
+Finished Reading in Crime Data for filtered_crimes_queens.csv
+995.489
+1067.186
+470.13599999999997
+558.923
+Finished Appending List for filtered_crimes_queens.csv
+Finished Reading in Crime Data for filtered_crimes_staten_island.csv
+913.46
+968.034
+524.509
+578.688
+Finished Appending List for filtered_crimes_staten_island.csv
+
+MINX = 913.46
+MAXX = 1067.186
+MINY = 428.18
+MAXY = 578.688
