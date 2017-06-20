@@ -1,0 +1,189 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -96.591,
+                16.01,
+                18
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "ms",
+        "place": "Oaxaca, Mexico",
+        "rms": null,
+        "sig": 912,
+        "time": 281217167600,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                162.136,
+                -11.132,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 776,
+        "time": 279151327100,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                57.434,
+                33.386,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "ms",
+        "place": "eastern Iran",
+        "rms": null,
+        "sig": 842,
+        "time": 274808156600,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -85.222,
+                10.204,
+                56
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Costa Rica",
+        "rms": null,
+        "sig": 754,
+        "time": 272680712200,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                121.512,
+                22.282,
+                17
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "ms",
+        "place": "Taiwan region",
+        "rms": null,
+        "sig": 842,
+        "time": 270052956900,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -172.264,
+                -17.098,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Tonga region",
+        "rms": null,
+        "sig": 754,
+        "time": 266944293500,
+        "types": ",focal-mechanism,origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.028,
+                38.19,
+                44
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "ms",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 912,
+        "time": 266487266400,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                78.606,
+                42.839,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Kyrgyzstan",
+        "rms": null,
+        "sig": 776,
+        "time": 259621548200,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                148.862,
+                44.244,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "ms",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 889,
+        "time": 259616870700,
+        "types": ",focal-mechanism,origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                148.439,
+                44.932,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "ms",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 865,
+        "time": 259470920300,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.358,
+                -30.683,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "Kermadec Islands, New Zealand",
+        "rms": null,
+        "sig": 798,
+        "time": 255908112700,
+        "types": ",focal-mechanism,origin,"
+    }
+]

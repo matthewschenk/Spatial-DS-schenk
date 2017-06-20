@@ -1,0 +1,261 @@
+{
+    "bbox": [
+        -78.228,
+        -10.665,
+        15,
+        161.006,
+        24.122,
+        531.8
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.611,
+                    -1.571,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem842636",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "842636",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem842636&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem842636,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "north of Ascension Island",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -101059106000,
+                "title": "M 7.0 - north of Ascension Island",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543180000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842636"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.228,
+                    -10.665,
+                    40
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem842581",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "842581",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem842581&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem842581,atlas19661017214157,",
+                "mag": 8.1,
+                "magType": "mw",
+                "mmi": 8.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "near the coast of central Peru",
+                "rms": null,
+                "sig": 1009,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -101182680000,
+                "title": "M 8.1 - near the coast of central Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119742710,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842581"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    128.49,
+                    2.388,
+                    115
+                ],
+                "type": "Point"
+            },
+            "id": "iscgemsup843229",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "843229",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup843229&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem843229,iscgem843229,iscgemsup843229,atlas19660908211552,",
+                "mag": 7.7,
+                "magType": "mw",
+                "mmi": 7,
+                "net": "iscgemsup",
+                "nst": null,
+                "place": "Halmahera, Indonesia",
+                "rms": null,
+                "sig": 912,
+                "sources": ",is,iscgem,iscgemsup,atlas,",
+                "status": "automatic",
+                "time": -104553844000,
+                "title": "M 7.7 - Halmahera, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119739794,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup843229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    124.583,
+                    -7.24,
+                    531.8
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem846755",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "846755",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem846755&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem846755,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Banda Sea",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -111295853000,
+                "title": "M 7.0 - Banda Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543180000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem846755"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    161.006,
+                    -10.318,
+                    45
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem846454",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "846454",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem846454&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem846454,atlas19660615005942,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -111970810000,
+                "title": "M 7.1 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119728697,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem846454"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.583,
+                    24.122,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem849160",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "849160",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem849160&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem849160,atlas19660312163119,",
+                "mag": 7.5,
+                "magType": "mw",
+                "mmi": 7,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Taiwan region",
+                "rms": null,
+                "sig": 865,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -120122920000,
+                "title": "M 7.5 - Taiwan region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119714909,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem849160"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 6,
+        "generated": 1497987833000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1966-1-01&endtime=1966-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

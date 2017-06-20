@@ -1,0 +1,138 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -102.084,
+                18.048,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "ms",
+        "place": "Guerrero, Mexico",
+        "rms": 1.2,
+        "sig": 820,
+        "time": 372828135570,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.074,
+                -33.134,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "off the coast of Valparaiso, Chile",
+        "rms": 0.8,
+        "sig": 798,
+        "time": 372050742220,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -173.085,
+                -14.96,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "ms",
+        "place": "Samoa Islands region",
+        "rms": 1.2,
+        "sig": 912,
+        "time": 368184571540,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                57.794,
+                30.013,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "eastern Iran",
+        "rms": 1.2,
+        "sig": 776,
+        "time": 365188944620,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.601,
+                -17.26,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Vanuatu",
+        "rms": 1,
+        "sig": 754,
+        "time": 364031948470,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                171.742,
+                -22.293,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "southeast of the Loyalty Islands",
+        "rms": 0.9,
+        "sig": 754,
+        "time": 363236904180,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                164.357,
+                -48.786,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "ms",
+        "place": "off the west coast of the South Island of New Zealand",
+        "rms": 1.2,
+        "sig": 889,
+        "time": 359616314460,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                176.274,
+                51.744,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 754,
+        "time": 349692764100,
+        "types": ",focal-mechanism,origin,"
+    }
+]

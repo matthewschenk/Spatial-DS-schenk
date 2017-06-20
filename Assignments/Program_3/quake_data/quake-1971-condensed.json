@@ -1,0 +1,325 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                159.199,
+                52.803,
+                125
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "off the east coast of the Kamchatka Peninsula, Russia",
+        "rms": null,
+        "sig": 820,
+        "time": 59859333000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.557,
+                -11.857,
+                113.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Santa Cruz Islands",
+        "rms": null,
+        "sig": 776,
+        "time": 59551032000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                130.603,
+                -5.912,
+                131
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Banda Sea",
+        "rms": null,
+        "sig": 754,
+        "time": 53850160000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                141.199,
+                46.505,
+                18.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Sakhalin, Russia",
+        "rms": null,
+        "sig": 820,
+        "time": 52943730000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.416,
+                41.415,
+                54.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Hokkaido, Japan region",
+        "rms": null,
+        "sig": 776,
+        "time": 49965898000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -77.322,
+                -2.839,
+                120
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Peru-Ecuador border region",
+        "rms": null,
+        "sig": 842,
+        "time": 49428169000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                152.282,
+                -5.116,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": null,
+        "sig": 754,
+        "time": 49343100000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.172,
+                -4.817,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 8.1,
+        "magType": "mw",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": null,
+        "sig": 1009,
+        "time": 49339402000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.868,
+                -5.754,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": null,
+        "sig": 754,
+        "time": 48730486000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.85,
+                -5.524,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mw",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": null,
+        "sig": 985,
+        "time": 48319890000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.076,
+                -32.601,
+                60.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mw",
+        "place": "Valparaiso, Chile",
+        "rms": null,
+        "sig": 936,
+        "time": 47876600000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                145.965,
+                63.952,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Magadanskaya Oblast', Russia",
+        "rms": null,
+        "sig": 754,
+        "time": 43454683000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.318,
+                51.396,
+                24.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Andreanof Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 754,
+        "time": 42012507000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                102.285,
+                -4.33,
+                75
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "southern Sumatra, Indonesia",
+        "rms": null,
+        "sig": 754,
+        "time": 39944759000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -61.377,
+                -63.398,
+                12.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "South Shetland Islands",
+        "rms": null,
+        "sig": 754,
+        "time": 34895060000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -176.974,
+                51.409,
+                28.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Andreanof Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 754,
+        "time": 34741770000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                98.711,
+                0.653,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Nias region, Indonesia",
+        "rms": null,
+        "sig": 754,
+        "time": 34529609000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                139.722,
+                -3.184,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mw",
+        "place": "Papua, Indonesia",
+        "rms": null,
+        "sig": 912,
+        "time": 32339825000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -2.668,
+                -55.918,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "southern Mid-Atlantic Ridge",
+        "rms": null,
+        "sig": 776,
+        "time": 31772141000,
+        "types": ",origin,"
+    }
+]

@@ -1,0 +1,501 @@
+{
+    "bbox": [
+        -175.568,
+        -59.274,
+        25,
+        168.29,
+        43.056,
+        612.2
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -27.345,
+                    -56.332,
+                    100.9
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem877339",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "877339",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem877339&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem877339,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "South Sandwich Islands region",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -262355608000,
+                "title": "M 7.1 - South Sandwich Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877339"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -26.801,
+                    -59.274,
+                    129.2
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem17290909",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "17290909",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem17290909&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem17290909,",
+                "mag": 7.3,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "South Sandwich Islands region",
+                "rms": null,
+                "sig": 820,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -263001021000,
+                "title": "M 7.3 - South Sandwich Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17290909"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.925,
+                    -10.688,
+                    597.5
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem877295",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "877295",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem877295&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem877295,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Peru-Brazil border region",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -263081481000,
+                "title": "M 7.2 - Peru-Brazil border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877295"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.775,
+                    -10.75,
+                    612.2
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem877215",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "877215",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem877215&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem877215,",
+                "mag": 7.6,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Peru-Brazil border region",
+                "rms": null,
+                "sig": 889,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -264106209000,
+                "title": "M 7.6 - Peru-Brazil border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.101,
+                    43.056,
+                    43.9
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem877175",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "877175",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem877175&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem877175,atlas19610811155134,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 8.1,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Hokkaido, Japan region",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -264758904000,
+                "title": "M 7.1 - Hokkaido, Japan region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119593183,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877175"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    168.29,
+                    -18.307,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem877044",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "877044",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem877044&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem877044,atlas19610723215110,",
+                "mag": 7.3,
+                "magType": "mw",
+                "mmi": 6.9,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Vanuatu",
+                "rms": null,
+                "sig": 820,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -266378931000,
+                "title": "M 7.3 - Vanuatu",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119592707,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877044"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.683,
+                    29.692,
+                    30.6
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem877000",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "877000",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem877000&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem877000,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "southeast of the Ryukyu Islands, Japan",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -266838979000,
+                "title": "M 7.0 - southeast of the Ryukyu Islands, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    77.712,
+                    39.762,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem17290245",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "17290245",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem17290245&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem17290245,atlas19610413163444,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 6.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "southern Xinjiang, China",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -275124316000,
+                "title": "M 7.0 - southern Xinjiang, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119590754,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17290245"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -175.568,
+                    -28.866,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem876217",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "876217",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem876217&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem876217,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Kermadec Islands region",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -278344160000,
+                "title": "M 7.0 - Kermadec Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.475,
+                    31.739,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem876175",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "876175",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem876175&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem876175,atlas19610226181051,",
+                "mag": 7.5,
+                "magType": "mw",
+                "mmi": 9.5,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Kyushu, Japan",
+                "rms": null,
+                "sig": 865,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -279092948000,
+                "title": "M 7.5 - Kyushu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119589316,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876175"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.815,
+                    36.226,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem875970",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "875970",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem875970&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem875970,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "near the east coast of Honshu, Japan",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -282656850000,
+                "title": "M 7.0 - near the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875970"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.758,
+                    36.121,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem875966",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "875966",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem875966&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem875966,atlas19610116072013,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": 5.3,
+                "net": "iscgem",
+                "nst": null,
+                "place": "near the east coast of Honshu, Japan",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -282674387000,
+                "title": "M 7.2 - near the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119588845,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875966"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 12,
+        "generated": 1497987831000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1961-1-01&endtime=1961-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

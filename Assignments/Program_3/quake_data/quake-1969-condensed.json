@@ -1,0 +1,223 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                163.554,
+                57.65,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "near the east coast of the Kamchatka Peninsula, Russia",
+        "rms": null,
+        "sig": 842,
+        "time": -3372620000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                94.489,
+                2.005,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "off the west coast of northern Sumatra",
+        "rms": null,
+        "sig": 889,
+        "time": -3534862000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                147.647,
+                43.313,
+                27.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 776,
+        "time": -12044456000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                147.385,
+                43.599,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 865,
+        "time": -12277940000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                131.938,
+                32.15,
+                38.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Kyushu, Japan",
+        "rms": null,
+        "sig": 754,
+        "time": -22005632000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -10.613,
+                36.033,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mw",
+        "place": "Azores-Cape St. Vincent Ridge",
+        "rms": null,
+        "sig": 936,
+        "time": -26515168000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                118.904,
+                -3.201,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Sulawesi, Indonesia",
+        "rms": null,
+        "sig": 754,
+        "time": -26954582000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                126.581,
+                -6.784,
+                430.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Banda Sea",
+        "rms": null,
+        "sig": 798,
+        "time": -27913427000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                178.82,
+                -22.797,
+                660
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "south of the Fiji Islands",
+        "rms": null,
+        "sig": 798,
+        "time": -27997314000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                127.306,
+                4.569,
+                60
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Kepulauan Talaud, Indonesia",
+        "rms": null,
+        "sig": 889,
+        "time": -28992619000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.345,
+                -14.849,
+                112.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 776,
+        "time": -29912947000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.238,
+                44.985,
+                244.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Hokkaido, Japan region",
+        "rms": null,
+        "sig": 754,
+        "time": -29955471000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                158.888,
+                -7.97,
+                60
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 754,
+        "time": -31141997000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

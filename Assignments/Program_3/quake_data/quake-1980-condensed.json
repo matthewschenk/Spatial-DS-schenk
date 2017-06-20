@@ -1,0 +1,104 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -124.253,
+                41.117,
+                19
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "offshore Northern California",
+        "rms": null,
+        "sig": 798,
+        "time": 342527254000,
+        "types": ",associate,focal-mechanism,origin,shakemap,touch,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                169.853,
+                -21.89,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "southeast of the Loyalty Islands",
+        "rms": null,
+        "sig": 798,
+        "time": 341319605100,
+        "types": ",focal-mechanism,origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                1.354,
+                36.195,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "ms",
+        "place": "northern Algeria",
+        "rms": null,
+        "sig": 820,
+        "time": 340028723500,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.916,
+                -12.525,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "ms",
+        "place": "Santa Cruz Islands",
+        "rms": null,
+        "sig": 960,
+        "time": 332710943200,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.381,
+                -12.41,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "ms",
+        "place": "Santa Cruz Islands",
+        "rms": null,
+        "sig": 865,
+        "time": 331946359800,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                146.753,
+                43.53,
+                44
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 754,
+        "time": 320133063200,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -71.483,
+                -9.127,
+                590.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Peru-Brazil border region",
+        "rms": null,
+        "sig": 889,
+        "time": -193891468000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                129.684,
+                -6.843,
+                65
+            ],
+            "type": "Point"
+        },
+        "mag": 8.1,
+        "magType": "mw",
+        "place": "Banda Sea",
+        "rms": null,
+        "sig": 1009,
+        "time": -194395371000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                150.547,
+                44.726,
+                28.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mw",
+        "place": "east of the Kuril Islands",
+        "rms": null,
+        "sig": 936,
+        "time": -195692808000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.483,
+                44.872,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 8.5,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 1112,
+        "time": -196281721000,
+        "types": ",general-header,origin,trump-origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.225,
+                44.647,
+                37.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 754,
+        "time": -196345980000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.36,
+                -10.466,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Santa Cruz Islands",
+        "rms": null,
+        "sig": 798,
+        "time": -198477586000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.642,
+                -10.522,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Santa Cruz Islands",
+        "rms": null,
+        "sig": 842,
+        "time": -198717185000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -178.684,
+                -17.628,
+                570
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Fiji region",
+        "rms": null,
+        "sig": 754,
+        "time": -200490106000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -69.414,
+                -13.866,
+                550
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mw",
+        "place": "southern Peru",
+        "rms": null,
+        "sig": 912,
+        "time": -201335691000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                128.043,
+                -1.05,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Kepulauan Obi, Indonesia",
+        "rms": null,
+        "sig": 776,
+        "time": -211845887000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                128.07,
+                -0.975,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Halmahera, Indonesia",
+        "rms": null,
+        "sig": 776,
+        "time": -211847437000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.675,
+                -29.992,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Kermadec Islands, New Zealand",
+        "rms": null,
+        "sig": 820,
+        "time": -213631903000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.783,
+                46.636,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "east of the Kuril Islands",
+        "rms": null,
+        "sig": 798,
+        "time": -214499710000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                146.308,
+                -7.523,
+                186.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "eastern New Guinea region, Papua New Guinea",
+        "rms": null,
+        "sig": 865,
+        "time": -216013550000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.094,
+                24.411,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Taiwan region",
+        "rms": null,
+        "sig": 798,
+        "time": -217177796000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

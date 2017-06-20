@@ -44,7 +44,7 @@ if __name__=='__main__':
 
     background_colour = (255,255,255)
     black = (0,0,0)
-    (width, height) = (600, 400)
+    (width, height) = (1024, 512)
 
     screen = pygame.display.set_mode((width, height))
     pygame.display.set_caption('MBRs')
@@ -52,17 +52,17 @@ if __name__=='__main__':
 
     pygame.display.flip()
 
-    f = open('mbrs_manhatten_drugs.json','r')
+    f = open('earthquake_clusters.json','r')
     mbr_data = json.loads(f.read())
     mbrs = adjust_location_coords(mbr_data,width,height)
-    print(mbrs)
+    #print(mbrs)
 
     running = True
     while running:
 
         for id,mbr in mbrs.items():
-            print(mbr)
-            pygame.draw.polygon(screen, black, mbr, 2)
+            #print(mbr)
+            pygame.draw.polygon(screen, (0,255,0), mbr, 2)
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False

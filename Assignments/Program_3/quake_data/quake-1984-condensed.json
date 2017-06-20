@@ -1,0 +1,240 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                125.124,
+                5.167,
+                202.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Mindanao, Philippines",
+        "rms": 1.3,
+        "sig": 865,
+        "time": 469786516230,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                98.027,
+                0.197,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Nias region, Indonesia",
+        "rms": 1.1,
+        "sig": 776,
+        "time": 469522170020,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                170.95,
+                -22.022,
+                104.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "southeast of the Loyalty Islands",
+        "rms": 1,
+        "sig": 776,
+        "time": 469334779880,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -38.794,
+                8.185,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "central Mid-Atlantic Ridge",
+        "rms": 1,
+        "sig": 776,
+        "time": 468132530270,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -173.643,
+                -15.86,
+                128.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Tonga",
+        "rms": 1.2,
+        "sig": 798,
+        "time": 466683667500,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.517,
+                -0.086,
+                242.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Sulawesi, Indonesia",
+        "rms": 1.2,
+        "sig": 842,
+        "time": 460641712400,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                151.577,
+                -4.843,
+                174.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 1.2,
+        "sig": 776,
+        "time": 454751383660,
+        "types": ",impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                148.192,
+                44.117,
+                44.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": 1.2,
+        "sig": 798,
+        "time": 448969442600,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                63.35,
+                40.32,
+                14.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "western Uzbekistan",
+        "rms": 0.9,
+        "sig": 754,
+        "time": 448576118240,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                138.935,
+                29.384,
+                457.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Izu Islands, Japan region",
+        "rms": 1,
+        "sig": 842,
+        "time": 447387441260,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                123.762,
+                8.147,
+                649.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Mindanao, Philippines",
+        "rms": 0.9,
+        "sig": 820,
+        "time": 447305630990,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                160.469,
+                -10.012,
+                18.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Solomon Islands",
+        "rms": 1.4,
+        "sig": 889,
+        "time": 445037601490,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                118.806,
+                -2.823,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Sulawesi, Indonesia",
+        "rms": 1.3,
+        "sig": 754,
+        "time": 442423453560,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                136.894,
+                33.683,
+                368.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "near the south coast of western Honshu, Japan",
+        "rms": 1.2,
+        "sig": 798,
+        "time": 441795818850,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    }
+]

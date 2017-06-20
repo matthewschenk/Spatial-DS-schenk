@@ -1,0 +1,240 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                168.949,
+                -20.122,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Loyalty Islands, New Caledonia",
+        "rms": null,
+        "sig": 754,
+        "time": 89582122000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                152.932,
+                -6.05,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": null,
+        "sig": 865,
+        "time": 82943049000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -135.853,
+                56.724,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Southeastern Alaska",
+        "rms": null,
+        "sig": 889,
+        "time": 81380717000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                124.221,
+                3.752,
+                330.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mw",
+        "place": "Celebes Sea",
+        "rms": null,
+        "sig": 912,
+        "time": 77128864000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -175.066,
+                -17.76,
+                222.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Tonga",
+        "rms": null,
+        "sig": 776,
+        "time": 75415557000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.191,
+                -5.154,
+                409.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Bougainville region, Papua New Guinea",
+        "rms": null,
+        "sig": 798,
+        "time": 73351931000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                120.275,
+                13.402,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Mindoro, Philippines",
+        "rms": null,
+        "sig": 865,
+        "time": 73078207000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                121.539,
+                23.564,
+                22.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Taiwan",
+        "rms": null,
+        "sig": 754,
+        "time": 72957441000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                179.665,
+                -25.758,
+                495.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "south of the Fiji Islands",
+        "rms": null,
+        "sig": 798,
+        "time": 70781693000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                140.929,
+                33.453,
+                59.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Izu Islands, Japan region",
+        "rms": null,
+        "sig": 798,
+        "time": 68203381000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.339,
+                -11.481,
+                101.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Santa Cruz Islands",
+        "rms": null,
+        "sig": 842,
+        "time": 66958193000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                121.974,
+                23.107,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Taiwan",
+        "rms": null,
+        "sig": 776,
+        "time": 65158884000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.269,
+                22.632,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Taiwan region",
+        "rms": null,
+        "sig": 820,
+        "time": 65153184000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.407,
+                -13.248,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 754,
+        "time": 65049474000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

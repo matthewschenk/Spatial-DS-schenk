@@ -1,0 +1,155 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -85.872,
+                11.925,
+                160.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Nicaragua",
+        "rms": null,
+        "sig": 776,
+        "time": -69868748000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -179.186,
+                -21.182,
+                636.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Fiji region",
+        "rms": null,
+        "sig": 798,
+        "time": -70353491000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                164.009,
+                -49.736,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Auckland Islands, New Zealand region",
+        "rms": null,
+        "sig": 754,
+        "time": -72022844000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -79.674,
+                -10.656,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "off the coast of central Peru",
+        "rms": null,
+        "sig": 754,
+        "time": -73450351000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                30.8,
+                40.751,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "western Turkey",
+        "rms": null,
+        "sig": 842,
+        "time": -77180580000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.274,
+                -9.163,
+                600.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Peru-Brazil border region",
+        "rms": null,
+        "sig": 754,
+        "time": -90748128000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -34.14,
+                52.812,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Reykjanes Ridge",
+        "rms": null,
+        "sig": 754,
+        "time": -90895536000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -74.798,
+                2.849,
+                55
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Colombia",
+        "rms": null,
+        "sig": 754,
+        "time": -91269311000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                103.036,
+                48.168,
+                13.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "central Mongolia",
+        "rms": null,
+        "sig": 754,
+        "time": -94347919000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

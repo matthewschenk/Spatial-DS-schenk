@@ -1,0 +1,461 @@
+{
+    "bbox": [
+        -172.415,
+        -24.753,
+        10,
+        160.819,
+        56.953,
+        90.5
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    99.611,
+                    22.789,
+                    17.8
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003nks",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003nks",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003nks&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19881106130319,gcmtc110688b,usp0003nks,gcmt19881106130317,atlas19881106130321,atlas19881106130322,iscgem419867,",
+                "mag": 7.7,
+                "magType": "mw",
+                "mmi": 8.8,
+                "net": "us",
+                "nst": null,
+                "place": "Myanmar-China border region",
+                "rms": 1.6,
+                "sig": 912,
+                "sources": ",choy,gcmt,us,gcmt,atlas,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 594824599340,
+                "title": "M 7.7 - Myanmar-China border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228542171,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003nks"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -172.415,
+                    -18.771,
+                    35.2
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003mmh",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003mmh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003mmh&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19881008044624,gcmtc100888b,usp0003mmh,gcmt19881008044627,iscgem422192,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Tonga region",
+                "rms": 1,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 592289184530,
+                "title": "M 7.1 - Tonga region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738899922,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003mmh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    160.819,
+                    -10.366,
+                    34
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003jtm",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003jtm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003jtm&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19880810043826,gcmtc081088a,usp0003jtm,gcmt19880810043826,atlas19880810043828,iscgem428567,",
+                "mag": 7.6,
+                "magType": "mw",
+                "mmi": 6.9,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": 1.5,
+                "sig": 889,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 587191106170,
+                "title": "M 7.6 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228530182,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003jtm"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    95.127,
+                    25.149,
+                    90.5
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003jpw",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003jpw",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003jpw&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc080688a,usp0003jpw,gcmt19880806003624,atlas19880806003626,iscgem428070,",
+                "mag": 7.3,
+                "magType": "mw",
+                "mmi": 7.1,
+                "net": "us",
+                "nst": null,
+                "place": "Myanmar",
+                "rms": 1.1,
+                "sig": 820,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 586830984650,
+                "title": "M 7.3 - Myanmar",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228529597,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003jpw"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.667,
+                    -6.081,
+                    27.7
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003j6r",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003j6r",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003j6r&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19880725064606,gcmtc072588a,usp0003j6r,gcmt19880725064606,atlas19880725064609,iscgem432305,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 6.4,
+                "net": "us",
+                "nst": null,
+                "place": "Kepulauan Aru region, Indonesia",
+                "rms": 1,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 585816366690,
+                "title": "M 7.0 - Kepulauan Aru region, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228528417,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003j6r"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.779,
+                    -6.526,
+                    16.6
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003j4t",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003j4t",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003j4t&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19880723151708,gcmtc072388d,usp0003j4t,gcmt19880723151710,iscgem432164,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "New Britain region, Papua New Guinea",
+                "rms": 0.9,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 585674228180,
+                "title": "M 7.0 - New Britain region, Papua New Guinea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738462822,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003j4t"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.305,
+                    -17.192,
+                    33.1
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003ezg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003ezg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003ezg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc041288f,usp0003ezg,gcmt19880412231957,atlas19880412231956,iscgem440555,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 6.4,
+                "net": "us",
+                "nst": null,
+                "place": "near the coast of southern Peru",
+                "rms": 1.2,
+                "sig": 776,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 576890395570,
+                "title": "M 7.1 - near the coast of southern Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228515443,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003ezg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -143.032,
+                    56.953,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003dnb",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003dnb",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003dnb&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19880306223538,gcmtc030688b,usp0003dnb,gcmt19880306223535,iscgem442438,atlas19880306223536,",
+                "mag": 7.8,
+                "magType": "mw",
+                "mmi": 0,
+                "net": "us",
+                "nst": null,
+                "place": "Gulf of Alaska",
+                "rms": null,
+                "sig": 936,
+                "sources": ",choy,gcmt,us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 573690938140,
+                "title": "M 7.8 - Gulf of Alaska",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120802959,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003dnb"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    124.616,
+                    13.477,
+                    24.9
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003da3",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003da3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003da3&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19880224035203,gcmtc022488c,usp0003da3,gcmt19880224035202,atlas19880224035206,iscgem446340,",
+                "mag": 7.3,
+                "magType": "mw",
+                "mmi": 6.4,
+                "net": "us",
+                "nst": null,
+                "place": "Catanduanes, Philippines",
+                "rms": 1,
+                "sig": 820,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 572673123290,
+                "title": "M 7.3 - Catanduanes, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228507523,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003da3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.433,
+                    -24.753,
+                    36.9
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003crv",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003crv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003crv&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19880205140102,gcmtc020588c,usp0003crv,gcmt19880205140102,atlas19880205140104,iscgem444899,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": 6.7,
+                "net": "us",
+                "nst": null,
+                "place": "Antofagasta, Chile",
+                "rms": 1.1,
+                "sig": 798,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 571068062750,
+                "title": "M 7.2 - Antofagasta, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228502492,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003crv"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.568,
+                    -24.71,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003c61",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003c61",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003c61&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19880119073031,gcmtc011988b,usp0003c61,gcmt19880119073029,atlas19880119073030,iscgem448284,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 6.8,
+                "net": "us",
+                "nst": null,
+                "place": "Antofagasta, Chile",
+                "rms": 1.3,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 569575831860,
+                "title": "M 7.0 - Antofagasta, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228498443,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003c61"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 11,
+        "generated": 1497987845000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1988-1-01&endtime=1988-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

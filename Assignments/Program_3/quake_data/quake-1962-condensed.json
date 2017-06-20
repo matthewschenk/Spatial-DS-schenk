@@ -1,0 +1,155 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                49.843,
+                35.656,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "western Iran",
+        "rms": null,
+        "sig": 754,
+        "time": -231395959000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -82.729,
+                7.512,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "south of Panama",
+        "rms": null,
+        "sig": 798,
+        "time": -234632714000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.459,
+                -20.088,
+                390
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Fiji region",
+        "rms": null,
+        "sig": 865,
+        "time": -240288263000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                128.218,
+                -7.351,
+                30.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Kepulauan Barat Daya, Indonesia",
+        "rms": null,
+        "sig": 776,
+        "time": -240863771000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -99.741,
+                16.96,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Guerrero, Mexico",
+        "rms": null,
+        "sig": 754,
+        "time": -241177686000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.734,
+                42.506,
+                60
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Hokkaido, Japan region",
+        "rms": null,
+        "sig": 776,
+        "time": -242762507000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.789,
+                38.022,
+                28
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 820,
+        "time": -243731236000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -43.255,
+                10.767,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "northern Mid-Atlantic Ridge",
+        "rms": null,
+        "sig": 820,
+        "time": -245905946000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -72.885,
+                -37.845,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Araucania, Chile",
+        "rms": null,
+        "sig": 776,
+        "time": -248635435000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

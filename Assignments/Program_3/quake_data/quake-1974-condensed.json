@@ -1,0 +1,189 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -77.786,
+                -12.5,
+                6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "near the coast of central Peru",
+        "rms": null,
+        "sig": 798,
+        "time": 153233989800,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.034,
+                -8.42,
+                48
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "D'Entrecasteaux Islands region",
+        "rms": null,
+        "sig": 798,
+        "time": 151740894000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -62,
+                17.3,
+                47
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "ms",
+        "place": "Antigua and Barbuda region, Leeward Islands",
+        "rms": null,
+        "sig": 865,
+        "time": 150457858100,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -77.795,
+                -12.265,
+                13
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "ms",
+        "place": "near the coast of central Peru",
+        "rms": null,
+        "sig": 889,
+        "time": 150042089100,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.431,
+                -38.453,
+                36
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Araucania, Chile",
+        "rms": null,
+        "sig": 776,
+        "time": 146054652800,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                73.83,
+                39.457,
+                9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "ms",
+        "place": "Kyrgyzstan-Tajikistan-Xinjiang border region",
+        "rms": null,
+        "sig": 820,
+        "time": 145415635500,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -77.688,
+                7.747,
+                12
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "ms",
+        "place": "Panama-Colombia border region",
+        "rms": null,
+        "sig": 820,
+        "time": 142910302800,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -175.954,
+                -29.082,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "Kermadec Islands region",
+        "rms": null,
+        "sig": 798,
+        "time": 142039586600,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                155.575,
+                -7.383,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 776,
+        "time": 128920353100,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                155.894,
+                -7.461,
+                34
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 754,
+        "time": 128907005300,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.863,
+                -14.434,
+                34
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 798,
+        "time": 127039873300,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

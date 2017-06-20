@@ -1,0 +1,206 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -27.345,
+                -56.332,
+                100.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "South Sandwich Islands region",
+        "rms": null,
+        "sig": 776,
+        "time": -262355608000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -26.801,
+                -59.274,
+                129.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "South Sandwich Islands region",
+        "rms": null,
+        "sig": 820,
+        "time": -263001021000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.925,
+                -10.688,
+                597.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Peru-Brazil border region",
+        "rms": null,
+        "sig": 798,
+        "time": -263081481000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.775,
+                -10.75,
+                612.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Peru-Brazil border region",
+        "rms": null,
+        "sig": 889,
+        "time": -264106209000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                145.101,
+                43.056,
+                43.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Hokkaido, Japan region",
+        "rms": null,
+        "sig": 776,
+        "time": -264758904000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                168.29,
+                -18.307,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 820,
+        "time": -266378931000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                131.683,
+                29.692,
+                30.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "southeast of the Ryukyu Islands, Japan",
+        "rms": null,
+        "sig": 754,
+        "time": -266838979000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                77.712,
+                39.762,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "southern Xinjiang, China",
+        "rms": null,
+        "sig": 754,
+        "time": -275124316000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -175.568,
+                -28.866,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Kermadec Islands region",
+        "rms": null,
+        "sig": 754,
+        "time": -278344160000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                131.475,
+                31.739,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Kyushu, Japan",
+        "rms": null,
+        "sig": 865,
+        "time": -279092948000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                141.815,
+                36.226,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 754,
+        "time": -282656850000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                141.758,
+                36.121,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 798,
+        "time": -282674387000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

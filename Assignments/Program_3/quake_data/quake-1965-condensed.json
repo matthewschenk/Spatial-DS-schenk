@@ -1,0 +1,308 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -152.525,
+                58.09,
+                27.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Kodiak Island region, Alaska",
+        "rms": null,
+        "sig": 754,
+        "time": -136459629000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -95.867,
+                16.081,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Oaxaca, Mexico",
+        "rms": null,
+        "sig": 842,
+        "time": -137477636000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.607,
+                -16.198,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 798,
+        "time": -138367168000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.96,
+                -15.871,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 842,
+        "time": -138367190000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.092,
+                -15.861,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 889,
+        "time": -138504489000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.98,
+                -15.449,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 798,
+        "time": -138572342000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                157.922,
+                -56.046,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Macquarie Island region",
+        "rms": null,
+        "sig": 820,
+        "time": -139315203000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -167.739,
+                52.99,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mw",
+        "place": "Fox Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 936,
+        "time": -141966080000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                148.699,
+                44.578,
+                58
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 798,
+        "time": -143843156000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.022,
+                44.608,
+                40.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 754,
+        "time": -143843173000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.34,
+                -14.921,
+                120
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 912,
+        "time": -145754373000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                177.959,
+                50.282,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 889,
+        "time": -150154374000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.233,
+                -32.522,
+                70
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Valparaiso, Chile",
+        "rms": null,
+        "sig": 842,
+        "time": -150276404000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                70.724,
+                36.405,
+                207.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Hindu Kush region, Afghanistan",
+        "rms": null,
+        "sig": 842,
+        "time": -151488413000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.679,
+                -25.633,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "near the coast of Antofagasta, Chile",
+        "rms": null,
+        "sig": 754,
+        "time": -153107293000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                179.605,
+                51.443,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 820,
+        "time": -154797556000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                178.715,
+                51.251,
+                30.3
+            ],
+            "type": "Point"
+        },
+        "mag": 8.7,
+        "magType": "mw",
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 1164,
+        "time": -154810718000,
+        "types": ",general-header,origin,shakemap,trump-origin,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                125.952,
+                -2.608,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 8.2,
+        "magType": "mw",
+        "place": "Kepulauan Sula, Indonesia",
+        "rms": null,
+        "sig": 1034,
+        "time": -155778523000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

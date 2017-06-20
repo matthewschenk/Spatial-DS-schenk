@@ -1,0 +1,240 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                166.185,
+                -13.987,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": 1.1,
+        "sig": 754,
+        "time": 501997794150,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.24,
+                -14.043,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": 1,
+        "sig": 754,
+        "time": 501992742340,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                134.911,
+                -1.639,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "near the north coast of Papua, Indonesia",
+        "rms": 1.4,
+        "sig": 776,
+        "time": 501068421290,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -101.647,
+                17.802,
+                30.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Guerrero, Mexico",
+        "rms": 1.2,
+        "sig": 889,
+        "time": 496114633470,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -102.533,
+                18.19,
+                27.9
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mw",
+        "place": "Michoacan, Mexico",
+        "rms": 1.3,
+        "sig": 985,
+        "time": 495983867350,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                75.224,
+                39.431,
+                6.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "southern Xinjiang, China",
+        "rms": 1.2,
+        "sig": 754,
+        "time": 493648916160,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                70.896,
+                36.19,
+                98.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Hindu Kush region, Afghanistan",
+        "rms": 1,
+        "sig": 842,
+        "time": 491471684070,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                152.828,
+                -4.439,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 1,
+        "sig": 820,
+        "time": 489213411730,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                151.045,
+                -5.599,
+                26.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 1.3,
+        "sig": 798,
+        "time": 484587350590,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                120.61,
+                15.344,
+                188.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Luzon, Philippines",
+        "rms": 1.1,
+        "sig": 754,
+        "time": 483120912020,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                126.411,
+                1.622,
+                50.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Molucca Sea",
+        "rms": 1.2,
+        "sig": 754,
+        "time": 482209206780,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.618,
+                -34.131,
+                37.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Libertador General Bernardo O'Higgins, Chile",
+        "rms": 1.1,
+        "sig": 798,
+        "time": 481859819480,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.663,
+                -33.207,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Valparaiso, Chile",
+        "rms": 1,
+        "sig": 842,
+        "time": 478744341870,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.871,
+                -33.135,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mw",
+        "place": "offshore Valparaiso, Chile",
+        "rms": 1,
+        "sig": 985,
+        "time": 478738027280,
+        "types": ",associate,focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]

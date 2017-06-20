@@ -1,0 +1,261 @@
+{
+    "bbox": [
+        -124.253,
+        -21.89,
+        10,
+        169.853,
+        43.53,
+        44
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -124.253,
+                    41.117,
+                    19
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001aq1",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001aq1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001aq1&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtz110880a,iscgem635132,usp0001aq1,atlas19801108102735,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": 8.2,
+                "net": "us",
+                "nst": null,
+                "place": "offshore Northern California",
+                "rms": null,
+                "sig": 798,
+                "sources": ",gcmt,iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 342527254000,
+                "title": "M 7.2 - offshore Northern California",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,focal-mechanism,origin,shakemap,touch,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228058534,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001aq1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    169.853,
+                    -21.89,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001aez",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001aez",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001aez&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtd102580b,gcmt19801025110005,iscgem637665,usp0001aez,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "southeast of the Loyalty Islands",
+                "rms": null,
+                "sig": 798,
+                "sources": ",gcmt,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 341319605100,
+                "title": "M 7.2 - southeast of the Loyalty Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,",
+                "tz": null,
+                "updated": 1478745536257,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001aez"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.354,
+                    36.195,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001a5w",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001a5w",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001a5w&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19801010122523,gcmtz101080a,gcmt19801010122523,atlas19801010122523,iscgem636856,usp0001a5w,",
+                "mag": 7.3,
+                "magType": "ms",
+                "mmi": 9.1,
+                "net": "us",
+                "nst": null,
+                "place": "northern Algeria",
+                "rms": null,
+                "sig": 820,
+                "sources": ",choy,gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 340028723500,
+                "title": "M 7.3 - northern Algeria",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228051007,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001a5w"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    165.916,
+                    -12.525,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00018y0",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00018y0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00018y0&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtz071780a,gcmt19800717194223,atlas19800717194224,iscgem642019,usp00018y0,",
+                "mag": 7.9,
+                "magType": "ms",
+                "mmi": 6.1,
+                "net": "us",
+                "nst": null,
+                "place": "Santa Cruz Islands",
+                "rms": null,
+                "sig": 960,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 332710943200,
+                "title": "M 7.9 - Santa Cruz Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228042116,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00018y0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    166.381,
+                    -12.41,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00018r3",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00018r3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00018r3&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtd070880b,gcmt19800708231919,iscgem641461,usp00018r3,atlas19800708231924,",
+                "mag": 7.5,
+                "magType": "ms",
+                "mmi": 6.8,
+                "net": "us",
+                "nst": null,
+                "place": "Santa Cruz Islands",
+                "rms": null,
+                "sig": 865,
+                "sources": ",gcmt,gcmt,iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 331946359800,
+                "title": "M 7.5 - Santa Cruz Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120391885,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00018r3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.753,
+                    43.53,
+                    44
+                ],
+                "type": "Point"
+            },
+            "id": "usp00015mw",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00015mw",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00015mw&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtd022380a,gcmt19800223055103,atlas19800223055104,iscgem651631,usp00015mw,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 6.8,
+                "net": "us",
+                "nst": null,
+                "place": "Kuril Islands",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 320133063200,
+                "title": "M 7.0 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228019288,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00015mw"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 6,
+        "generated": 1497987841000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1980-1-01&endtime=1980-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

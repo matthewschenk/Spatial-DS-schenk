@@ -66,11 +66,13 @@ path = '/Volumes/1TBHDD/code/repos/0courses/4553-Spatial-DS/Resources/Earthquake
 years = [x for x in range(1960,2017)]
 months = [x for x in range(0,12)]
 
-years = [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017]
+#years = [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017]
+#https://earthquake.usgs.gov/fdsnws/event/1/count?format=geojson&starttime=1960-01-01&endtime=2017-01-01&minmag=7
+#count = 801
 
 for y in years:
     print("Year:%s" % (y))
-    r = get_earth_quake_data(y,[1,12],5,None,True)
+    r = get_earth_quake_data(y,[1,12],7,None,True)
     f = open('./quake_data/quake-'+str(y)+'.json','w')
     f.write(json.dumps(r, sort_keys=True,indent=4, separators=(',', ': ')))
     f.close()

@@ -1,0 +1,261 @@
+{
+    "bbox": [
+        -178.414,
+        -52.341,
+        10,
+        160.568,
+        55.543,
+        593.4
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    142.76,
+                    39.837,
+                    28.6
+                ],
+                "type": "Point"
+            },
+            "id": "usp00041kg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00041kg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00041kg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19891101182534,gcmtc110189e,usp00041kg,gcmt19891101182535,atlas19891101182536,iscgem385565,",
+                "mag": 7.4,
+                "magType": "mw",
+                "mmi": 6,
+                "net": "us",
+                "nst": null,
+                "place": "near the east coast of Honshu, Japan",
+                "rms": 1.1,
+                "sig": 842,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 625947934940,
+                "title": "M 7.4 - near the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228601677,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00041kg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.835,
+                    55.543,
+                    11.4
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003z7h",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003z7h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003z7h&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19890904131458,gcmtc090489c,usp0003z7h,gcmt19890904131501,iscgem391659,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "south of Alaska",
+                "rms": 1.2,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 620918098250,
+                "title": "M 7.1 - south of Alaska",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738701158,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003z7h"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    160.568,
+                    -52.341,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003vj7",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003vj7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003vj7&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc052389a,usp0003vj7,gcmt19890523105446,iscgem405456,",
+                "mag": 8.2,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Macquarie Island region",
+                "rms": 1.3,
+                "sig": 1034,
+                "sources": ",gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 611924086320,
+                "title": "M 8.2 - Macquarie Island region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738148762,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003vj7"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -178.414,
+                    -30.523,
+                    43.8
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003v79",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003v79",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003v79&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19890514005950,gcmtc051489a,usp0003v79,gcmt19890514005949,iscgem404601,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Kermadec Islands, New Zealand",
+                "rms": 1.1,
+                "sig": 754,
+                "sources": ",choy,gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 611110790450,
+                "title": "M 7.0 - Kermadec Islands, New Zealand",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738082307,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003v79"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.381,
+                    -8.281,
+                    593.4
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003uxu",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003uxu",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003uxu&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19890505182839,gcmtc050589a,usp0003uxu,gcmt19890505182840,atlas19890505182840,iscgem403851,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Acre, Brazil",
+                "rms": 1,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 610396119450,
+                "title": "M 7.1 - Acre, Brazil",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738012869,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003uxu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    126.76,
+                    2.305,
+                    44
+                ],
+                "type": "Point"
+            },
+            "id": "usp0003rqq",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0003rqq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0003rqq&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19890210111524,gcmtc021089a,usp0003rqq,gcmt19890210111522,atlas19890210111525,iscgem412409,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 5.1,
+                "net": "us",
+                "nst": null,
+                "place": "Molucca Sea",
+                "rms": 1.3,
+                "sig": 776,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 603112524680,
+                "title": "M 7.1 - Molucca Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228558281,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003rqq"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 6,
+        "generated": 1497987846000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1989-1-01&endtime=1989-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

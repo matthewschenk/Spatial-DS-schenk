@@ -1,0 +1,581 @@
+{
+    "bbox": [
+        -177.657,
+        -28.427,
+        3,
+        149.123,
+        44.915,
+        41
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.029,
+                    39.121,
+                    36
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000kf0",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000kf0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000kf0&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc112476a,gcmt19761124122218,atlas19761124122218,iscgem706299,usp0000kf0,",
+                "mag": 7.3,
+                "magType": "ms",
+                "mmi": 8.5,
+                "net": "us",
+                "nst": null,
+                "place": "Turkey-Iran border region",
+                "rms": null,
+                "sig": 820,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 217686138800,
+                "title": "M 7.3 - Turkey-Iran border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227818430,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000kf0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.918,
+                    -4.517,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000k3d",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000k3d",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000k3d&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc102976a,gcmt19761029025107,atlas19761029025106,iscgem707709,usp0000k3d,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 6.7,
+                "net": "us",
+                "nst": null,
+                "place": "Papua, Indonesia",
+                "rms": null,
+                "sig": 776,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 215405467600,
+                "title": "M 7.1 - Papua, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227809873,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000k3d"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    124.023,
+                    6.262,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000hvb",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000hvb",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000hvb&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtm081676b,gcmt19760816161107,atlas19760816161107,iscgem709878,usp0000hvb,",
+                "mag": 7.9,
+                "magType": "ms",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": null,
+                "place": "Mindanao, Philippines",
+                "rms": null,
+                "sig": 960,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 209059867300,
+                "title": "M 7.9 - Mindanao, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227795948,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000hvb"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    118.401,
+                    39.664,
+                    26
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000hk6",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000hk6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000hk6&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc072876a,gcmt19760728104535,atlas19760728104535,iscgem711773,usp0000hk6,",
+                "mag": 7.4,
+                "magType": "ms",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": null,
+                "place": "Hebei, China",
+                "rms": null,
+                "sig": 842,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 207398735200,
+                "title": "M 7.4 - Hebei, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227790547,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000hk6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    117.978,
+                    39.57,
+                    23
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000hjg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000hjg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000hjg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtm072776a,gcmt19760727194254,atlas19760727194254,iscgem711732,usp0000hjg,",
+                "mag": 7.5,
+                "magType": "mw",
+                "mmi": 9.5,
+                "net": "us",
+                "nst": null,
+                "place": "Tianjin-Hebei border region, China",
+                "rms": null,
+                "sig": 865,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 207344574600,
+                "title": "M 7.5 - Tianjin-Hebei border region, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227789681,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000hjg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.127,
+                    7.409,
+                    3
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000h9g",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000h9g",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000h9g&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc071176b,gcmt19760711204147,atlas19760711204151,iscgem711035,usp0000h9g,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 9.1,
+                "net": "us",
+                "nst": null,
+                "place": "Panama",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 205965707500,
+                "title": "M 7.0 - Panama",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227785417,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000h9g"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.091,
+                    -4.603,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000h1p",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000h1p",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000h1p&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc062576a,gcmt19760625191856,atlas19760625191854,iscgem713087,usp0000h1p,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 7.2,
+                "net": "us",
+                "nst": null,
+                "place": "Papua, Indonesia",
+                "rms": null,
+                "sig": 776,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 204578336900,
+                "title": "M 7.1 - Papua, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227782236,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000h1p"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    96.318,
+                    3.397,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000gzb",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000gzb",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000gzb&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc062076a,gcmt19760620205313,atlas19760620205312,iscgem712883,usp0000gzb,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 6.2,
+                "net": "us",
+                "nst": null,
+                "place": "northern Sumatra, Indonesia",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 204151993400,
+                "title": "M 7.0 - northern Sumatra, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227780956,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000gzb"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    98.71,
+                    24.531,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000gm8",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000gm8",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000gm8&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtb052976b,gcmt19760529140018,atlas19760529140021,iscgem714811,usp0000gm8,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": null,
+                "place": "Myanmar-China border region",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 202226418500,
+                "title": "M 7.0 - Myanmar-China border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227772689,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000gm8"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    63.472,
+                    40.381,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000gcj",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000gcj",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000gcj&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc051776a,gcmt19760517025840,atlas19760517025840,atlas19760517025843,iscgem714188,usp0000gcj,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 8.3,
+                "net": "us",
+                "nst": null,
+                "place": "western Uzbekistan",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,atlas,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 201149920600,
+                "title": "M 7.0 - western Uzbekistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227770727,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000gcj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    63.773,
+                    40.311,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000ft0",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000ft0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000ft0&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc040876a,gcmt19760408024027,atlas19760408024025,iscgem715207,usp0000ft0,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 8.6,
+                "net": "us",
+                "nst": null,
+                "place": "western Uzbekistan",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 197779227000,
+                "title": "M 7.0 - western Uzbekistan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227758827,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ft0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.101,
+                    15.324,
+                    5
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000ex3",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000ex3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000ex3&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtm020476a,gcmt19760204090143,atlas19760204090143,iscgem717474,usp0000ex3,",
+                "mag": 7.5,
+                "magType": "mw",
+                "mmi": 9,
+                "net": "us",
+                "nst": null,
+                "place": "Guatemala",
+                "rms": null,
+                "sig": 865,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 192272503400,
+                "title": "M 7.5 - Guatemala",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227745135,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ex3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.123,
+                    44.915,
+                    41
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000ekj",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000ekj",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000ekj&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtm012176a,gcmt19760121100524,iscgem719387,usp0000ekj,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Kuril Islands",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 191066724100,
+                "title": "M 7.0 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,",
+                "tz": null,
+                "updated": 1478745544351,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ekj"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -177.657,
+                    -28.427,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000ee7",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000ee7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000ee7&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtm011476b,gcmt19760114164733,iscgem719012,usp0000ee7,",
+                "mag": 8,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Kermadec Islands region",
+                "rms": null,
+                "sig": 985,
+                "sources": ",gcmt,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 190486053500,
+                "title": "M 8.0 - Kermadec Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,",
+                "tz": null,
+                "updated": 1478745543544,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ee7"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 14,
+        "generated": 1497987839000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1976-1-01&endtime=1976-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

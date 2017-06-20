@@ -1,0 +1,206 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                124.891,
+                -2.071,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "Banda Sea",
+        "rms": 1.23,
+        "sig": 912,
+        "time": 912348631960,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                128.946,
+                -6.92,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Banda Sea",
+        "rms": 1.09,
+        "sig": 754,
+        "time": 910589924220,
+        "types": ",focal-mechanism,impact-text,moment-tensor,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                139.329,
+                28.932,
+                440.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwb",
+        "place": "Bonin Islands, Japan region",
+        "rms": 0.92,
+        "sig": 776,
+        "time": 903595255820,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -80.393,
+                -0.593,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "near the coast of Ecuador",
+        "rms": 0.94,
+        "sig": 798,
+        "time": 902257160100,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                141.926,
+                -2.961,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "near the north coast of New Guinea, Papua New Guinea",
+        "rms": 1.28,
+        "sig": 754,
+        "time": 900665353280,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.16,
+                -11.04,
+                110.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Santa Cruz Islands",
+        "rms": 0.88,
+        "sig": 754,
+        "time": 900590196420,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                125.308,
+                22.306,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwb",
+        "place": "southeast of Taiwan",
+        "rms": 0.99,
+        "sig": 865,
+        "time": 894238221910,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                99.261,
+                -0.544,
+                55.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "southern Sumatra, Indonesia",
+        "rms": 0.92,
+        "sig": 754,
+        "time": 891453383360,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -179.092,
+                -17.552,
+                537.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Fiji region",
+        "rms": 1.02,
+        "sig": 798,
+        "time": 891200896210,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.527,
+                -62.877,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 8.1,
+        "magType": "mwc",
+        "place": "Balleny Islands region",
+        "rms": 1.1,
+        "sig": 1009,
+        "time": 890795545070,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.207,
+                -23.913,
+                42
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Antofagasta, Chile",
+        "rms": 1.11,
+        "sig": 776,
+        "time": 886162568690,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                170.911,
+                -22.301,
+                100.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "southeast of the Loyalty Islands",
+        "rms": 0.88,
+        "sig": 865,
+        "time": 883894318970,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    }
+]

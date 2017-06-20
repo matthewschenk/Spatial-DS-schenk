@@ -1,0 +1,381 @@
+{
+    "bbox": [
+        -177.459,
+        -37.845,
+        10,
+        143.734,
+        42.506,
+        390
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    49.843,
+                    35.656,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem17292570",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "17292570",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem17292570&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19620901192040,iscgem17292570,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 7.7,
+                "net": "iscgem",
+                "nst": null,
+                "place": "western Iran",
+                "rms": null,
+                "sig": 754,
+                "sources": ",atlas,iscgem,",
+                "status": "automatic",
+                "time": -231395959000,
+                "title": "M 7.0 - western Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227391606,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17292570"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.729,
+                    7.512,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem17292186",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "17292186",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem17292186&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem17292186,atlas19620726081445,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": 6.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "south of Panama",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -234632714000,
+                "title": "M 7.2 - south of Panama",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119603836,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17292186"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -177.459,
+                    -20.088,
+                    390
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem874777",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "874777",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem874777&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem874777,",
+                "mag": 7.5,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Fiji region",
+                "rms": null,
+                "sig": 865,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -240288263000,
+                "title": "M 7.5 - Fiji region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543176000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874777"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    128.218,
+                    -7.351,
+                    30.2
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem874743",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "874743",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem874743&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem874743,atlas19620515052347,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 6.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Kepulauan Barat Daya, Indonesia",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -240863771000,
+                "title": "M 7.1 - Kepulauan Barat Daya, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119601445,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874743"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.741,
+                    16.96,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem17291824",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "17291824",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem17291824&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem17291824,atlas19620511141155,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 8.2,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Guerrero, Mexico",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -241177686000,
+                "title": "M 7.0 - Guerrero, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119600970,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.734,
+                    42.506,
+                    60
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem874610",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "874610",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem874610&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem874610,atlas19620423055810,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 6.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Hokkaido, Japan region",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -242762507000,
+                "title": "M 7.1 - Hokkaido, Japan region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119600012,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874610"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.789,
+                    38.022,
+                    28
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem874529",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "874529",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem874529&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem874529,atlas19620412005242,",
+                "mag": 7.3,
+                "magType": "mw",
+                "mmi": 5.5,
+                "net": "iscgem",
+                "nst": null,
+                "place": "near the east coast of Honshu, Japan",
+                "rms": null,
+                "sig": 820,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -243731236000,
+                "title": "M 7.3 - near the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119599016,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874529"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.255,
+                    10.767,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem874380",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "874380",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem874380&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem874380,",
+                "mag": 7.3,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "northern Mid-Atlantic Ridge",
+                "rms": null,
+                "sig": 820,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -245905946000,
+                "title": "M 7.3 - northern Mid-Atlantic Ridge",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543176000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874380"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.885,
+                    -37.845,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem17291428",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "17291428",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem17291428&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem17291428,atlas19620214063604,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 8.8,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Araucania, Chile",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -248635435000,
+                "title": "M 7.1 - Araucania, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119597104,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291428"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 9,
+        "generated": 1497987831000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1962-1-01&endtime=1962-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

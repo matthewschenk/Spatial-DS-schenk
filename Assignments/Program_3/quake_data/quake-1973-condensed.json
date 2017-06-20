@@ -1,0 +1,121 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -21.549,
+                -60.823,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "east of the South Sandwich Islands",
+        "rms": null,
+        "sig": 754,
+        "time": 118768057300,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                146.442,
+                43.318,
+                50
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 776,
+        "time": 109737805500,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                145.785,
+                43.233,
+                48
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "ms",
+        "place": "Hokkaido, Japan region",
+        "rms": null,
+        "sig": 912,
+        "time": 109137302900,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.787,
+                13.372,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Luzon, Philippines",
+        "rms": null,
+        "sig": 754,
+        "time": 101205051800,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                156.584,
+                50.486,
+                27
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 798,
+        "time": 99729469500,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                100.581,
+                31.398,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "ms",
+        "place": "western Sichuan, China",
+        "rms": null,
+        "sig": 842,
+        "time": 97843030100,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -102.996,
+                18.481,
+                43
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "ms",
+        "place": "Michoacan, Mexico",
+        "rms": null,
+        "sig": 865,
+        "time": 97275672500,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

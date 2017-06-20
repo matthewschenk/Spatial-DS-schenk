@@ -1,0 +1,461 @@
+{
+    "bbox": [
+        -175.954,
+        -38.453,
+        6,
+        166.863,
+        39.457,
+        48
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.786,
+                    -12.5,
+                    6
+                ],
+                "type": "Point"
+            },
+            "id": "usp00008qy",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00008qy",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00008qy&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19741109125952,iscgem735243,usp00008qy,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": 5.9,
+                "net": "us",
+                "nst": null,
+                "place": "near the coast of central Peru",
+                "rms": null,
+                "sig": 798,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 153233989800,
+                "title": "M 7.2 - near the coast of central Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227681700,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008qy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    154.034,
+                    -8.42,
+                    48
+                ],
+                "type": "Point"
+            },
+            "id": "usp00008hm",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00008hm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00008hm&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem736783,usp00008hm,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "D'Entrecasteaux Islands region",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,us,",
+                "status": "reviewed",
+                "time": 151740894000,
+                "title": "M 7.2 - D'Entrecasteaux Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543190000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008hm"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -62,
+                    17.3,
+                    47
+                ],
+                "type": "Point"
+            },
+            "id": "usp00008aq",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00008aq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00008aq&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19741008095057,iscgem736214,usp00008aq,",
+                "mag": 7.5,
+                "magType": "ms",
+                "mmi": 6.7,
+                "net": "us",
+                "nst": null,
+                "place": "Antigua and Barbuda region, Leeward Islands",
+                "rms": null,
+                "sig": 865,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 150457858100,
+                "title": "M 7.5 - Antigua and Barbuda region, Leeward Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227679040,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008aq"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.795,
+                    -12.265,
+                    13
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000888",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000888",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000888&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19741003142134,iscgem736021,usp0000888,",
+                "mag": 7.6,
+                "magType": "ms",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": null,
+                "place": "near the coast of central Peru",
+                "rms": null,
+                "sig": 889,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 150042089100,
+                "title": "M 7.6 - near the coast of central Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227677775,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000888"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.431,
+                    -38.453,
+                    36
+                ],
+                "type": "Point"
+            },
+            "id": "usp00007nz",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00007nz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00007nz&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19740818104410,iscgem738898,usp00007nz,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": null,
+                "place": "Araucania, Chile",
+                "rms": null,
+                "sig": 776,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 146054652800,
+                "title": "M 7.1 - Araucania, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227671908,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00007nz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    73.83,
+                    39.457,
+                    9
+                ],
+                "type": "Point"
+            },
+            "id": "usp00007j0",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00007j0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00007j0&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19740811011356,iscgem738538,usp00007j0,",
+                "mag": 7.3,
+                "magType": "ms",
+                "mmi": 7.7,
+                "net": "us",
+                "nst": null,
+                "place": "Kyrgyzstan-Tajikistan-Xinjiang border region",
+                "rms": null,
+                "sig": 820,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 145415635500,
+                "title": "M 7.3 - Kyrgyzstan-Tajikistan-Xinjiang border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227670000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00007j0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.688,
+                    7.747,
+                    12
+                ],
+                "type": "Point"
+            },
+            "id": "usp000072y",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000072y",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000072y&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19740713011823,iscgem745803,usp000072y,",
+                "mag": 7.3,
+                "magType": "ms",
+                "mmi": 8.1,
+                "net": "us",
+                "nst": null,
+                "place": "Panama-Colombia border region",
+                "rms": null,
+                "sig": 820,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 142910302800,
+                "title": "M 7.3 - Panama-Colombia border region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227668068,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000072y"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -175.954,
+                    -29.082,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00006zm",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00006zm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00006zm&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem745460,usp00006zm,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Kermadec Islands region",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,us,",
+                "status": "reviewed",
+                "time": 142039586600,
+                "title": "M 7.2 - Kermadec Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543189000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00006zm"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    155.575,
+                    -7.383,
+                    40
+                ],
+                "type": "Point"
+            },
+            "id": "usp000053r",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000053r",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000053r&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19740201031235,iscgem751080,usp000053r,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 8.5,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 776,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 128920353100,
+                "title": "M 7.1 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227648849,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000053r"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    155.894,
+                    -7.461,
+                    34
+                ],
+                "type": "Point"
+            },
+            "id": "usp000053h",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000053h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000053h&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19740131233007,iscgem753186,usp000053h,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 7.7,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 754,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 128907005300,
+                "title": "M 7.0 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227646734,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000053h"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    166.863,
+                    -14.434,
+                    34
+                ],
+                "type": "Point"
+            },
+            "id": "usp00004vu",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00004vu",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00004vu&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19740110085117,iscgem752492,usp00004vu,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": 6.9,
+                "net": "us",
+                "nst": null,
+                "place": "Vanuatu",
+                "rms": null,
+                "sig": 798,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 127039873300,
+                "title": "M 7.2 - Vanuatu",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227643476,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00004vu"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 11,
+        "generated": 1497987838000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1974-1-01&endtime=1974-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,121 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                59.726,
+                33.962,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "eastern Iran",
+        "rms": null,
+        "sig": 776,
+        "time": 312570632900,
+        "types": ",associate,focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                161.284,
+                -10.615,
+                22
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 776,
+        "time": 309520266700,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.707,
+                -46.675,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "ms",
+        "place": "off the west coast of the South Island of New Zealand",
+        "rms": null,
+        "sig": 842,
+        "time": 308571922300,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                136.04,
+                -1.679,
+                5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "ms",
+        "place": "Biak region, Indonesia",
+        "rms": null,
+        "sig": 960,
+        "time": 305961471400,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.096,
+                19.066,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Babuyan Islands region, Philippines",
+        "rms": null,
+        "sig": 776,
+        "time": 304525882100,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -101.276,
+                17.813,
+                49
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "ms",
+        "place": "Guerrero, Mexico",
+        "rms": null,
+        "sig": 889,
+        "time": 290257636300,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -141.593,
+                60.642,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Southern Alaska",
+        "rms": null,
+        "sig": 776,
+        "time": 289085226100,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    }
+]

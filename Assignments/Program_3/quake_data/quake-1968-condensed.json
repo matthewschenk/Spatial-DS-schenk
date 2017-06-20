@@ -1,0 +1,376 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                143.286,
+                -3.33,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "near the north coast of New Guinea, Papua New Guinea",
+        "rms": null,
+        "sig": 754,
+        "time": -37508116000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                140.635,
+                26.358,
+                500
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Bonin Islands, Japan region",
+        "rms": null,
+        "sig": 820,
+        "time": -38896780000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.914,
+                -30.62,
+                50
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Kermadec Islands, New Zealand",
+        "rms": null,
+        "sig": 776,
+        "time": -39851826000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                59.083,
+                34.158,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "northeastern Iran",
+        "rms": null,
+        "sig": 776,
+        "time": -42124337000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                159.914,
+                -10.188,
+                543.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 820,
+        "time": -43219288000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                119.802,
+                0.157,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Minahasa, Sulawesi, Indonesia",
+        "rms": null,
+        "sig": 798,
+        "time": -43551937000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                126.234,
+                1.514,
+                23
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Molucca Sea",
+        "rms": null,
+        "sig": 889,
+        "time": -43969974000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -97.739,
+                16.519,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Oaxaca, Mexico",
+        "rms": null,
+        "sig": 820,
+        "time": -44617997000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.067,
+                16.316,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Luzon, Philippines",
+        "rms": null,
+        "sig": 889,
+        "time": -44682038000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -178.217,
+                -30.725,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Kermadec Islands, New Zealand",
+        "rms": null,
+        "sig": 820,
+        "time": -45333413000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.07,
+                39.503,
+                32.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 754,
+        "time": -49025887000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                139.353,
+                -2.85,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "near the north coast of Papua, Indonesia",
+        "rms": null,
+        "sig": 865,
+        "time": -50322761000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                172.02,
+                -41.659,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "South Island of New Zealand",
+        "rms": null,
+        "sig": 798,
+        "time": -50740542000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                150.219,
+                44.822,
+                28.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "east of the Kuril Islands",
+        "rms": null,
+        "sig": 754,
+        "time": -50986214000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -178.11,
+                -30.799,
+                55
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Kermadec Islands, New Zealand",
+        "rms": null,
+        "sig": 754,
+        "time": -51036411000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.864,
+                41.43,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mw",
+        "place": "Hokkaido, Japan region",
+        "rms": null,
+        "sig": 960,
+        "time": -51369658000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.435,
+                40.86,
+                29.9
+            ],
+            "type": "Point"
+        },
+        "mag": 8.2,
+        "magType": "mw",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 1034,
+        "time": -51405058000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                132.269,
+                32.449,
+                34.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Shikoku, Japan",
+        "rms": null,
+        "sig": 865,
+        "time": -55293473000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                121.368,
+                22.733,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Taiwan region",
+        "rms": null,
+        "sig": 776,
+        "time": -58280981000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                24.957,
+                39.368,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Aegean Sea",
+        "rms": null,
+        "sig": 798,
+        "time": -58842855000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.368,
+                -5.42,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": null,
+        "sig": 820,
+        "time": -59508915000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                146.741,
+                43.566,
+                36.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 842,
+        "time": -60702053000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

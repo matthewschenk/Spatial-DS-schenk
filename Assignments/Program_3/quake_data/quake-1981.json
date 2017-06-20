@@ -1,0 +1,341 @@
+{
+    "bbox": [
+        -173.085,
+        -48.786,
+        25,
+        176.274,
+        51.744,
+        33
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.084,
+                    18.048,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001gnv",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001gnv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001gnv&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19811025032215,gcmtc102581a,usp0001gnv,gcmt19811025032215,atlas19811025032215,iscgem610441,",
+                "mag": 7.3,
+                "magType": "ms",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": null,
+                "place": "Guerrero, Mexico",
+                "rms": 1.2,
+                "sig": 820,
+                "sources": ",choy,gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 372828135570,
+                "title": "M 7.3 - Guerrero, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228107246,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001gnv"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.074,
+                    -33.134,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001gg1",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001gg1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001gg1&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc101681a,usp0001gg1,gcmt19811016032542,iscgem610009,atlas19811016032543,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": 4.9,
+                "net": "us",
+                "nst": null,
+                "place": "off the coast of Valparaiso, Chile",
+                "rms": 0.8,
+                "sig": 798,
+                "sources": ",gcmt,us,gcmt,iscgem,atlas,",
+                "status": "reviewed",
+                "time": 372050742220,
+                "title": "M 7.2 - off the coast of Valparaiso, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120451819,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001gg1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -173.085,
+                    -14.96,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001fkx",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001fkx",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001fkx&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc090181b,usp0001fkx,gcmt19810901092932,atlas19810901092931,iscgem610759,",
+                "mag": 7.7,
+                "magType": "ms",
+                "mmi": 6.2,
+                "net": "us",
+                "nst": null,
+                "place": "Samoa Islands region",
+                "rms": 1.2,
+                "sig": 912,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 368184571540,
+                "title": "M 7.7 - Samoa Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228098216,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001fkx"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    57.794,
+                    30.013,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001ezf",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001ezf",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001ezf&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtz072881a,usp0001ezf,gcmt19810728172224,atlas19810728172224,iscgem624412,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 9.5,
+                "net": "us",
+                "nst": null,
+                "place": "eastern Iran",
+                "rms": 1.2,
+                "sig": 776,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 365188944620,
+                "title": "M 7.1 - eastern Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228095746,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ezf"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    167.601,
+                    -17.26,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001eq4",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001eq4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001eq4&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc071581a,usp0001eq4,gcmt19810715075908,atlas19810715075908,iscgem623688,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 5.4,
+                "net": "us",
+                "nst": null,
+                "place": "Vanuatu",
+                "rms": 1,
+                "sig": 754,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 364031948470,
+                "title": "M 7.0 - Vanuatu",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228094485,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001eq4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    171.742,
+                    -22.293,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001ej2",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001ej2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001ej2&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc070681a,usp0001ej2,gcmt19810706030824,iscgem623160,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "southeast of the Loyalty Islands",
+                "rms": 0.9,
+                "sig": 754,
+                "sources": ",gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 363236904180,
+                "title": "M 7.0 - southeast of the Loyalty Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738379291,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ej2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    164.357,
+                    -48.786,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001dv1",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001dv1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001dv1&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtz052581a,usp0001dv1,gcmt19810525052514,iscgem627150,",
+                "mag": 7.6,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "off the west coast of the South Island of New Zealand",
+                "rms": 1.2,
+                "sig": 889,
+                "sources": ",gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 359616314460,
+                "title": "M 7.6 - off the west coast of the South Island of New Zealand",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478745597420,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001dv1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    176.274,
+                    51.744,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001byq",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001byq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001byq&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc013081b,gcmt19810130085244,iscgem633334,usp0001byq,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Rat Islands, Aleutian Islands, Alaska",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 349692764100,
+                "title": "M 7.0 - Rat Islands, Aleutian Islands, Alaska",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,",
+                "tz": null,
+                "updated": 1478737499921,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001byq"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 8,
+        "generated": 1497987842000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1981-1-01&endtime=1981-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

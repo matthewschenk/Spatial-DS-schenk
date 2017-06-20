@@ -1,0 +1,421 @@
+{
+    "bbox": [
+        -175.406,
+        -59.426,
+        13,
+        160.822,
+        16.773,
+        37
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -67.767,
+                    -31.028,
+                    13
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000rp1",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000rp1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000rp1&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtz112377a,gcmt19771123092624,atlas19771123092626,iscgem690743,usp0000rp1,",
+                "mag": 7.4,
+                "magType": "ms",
+                "mmi": 9.8,
+                "net": "us",
+                "nst": null,
+                "place": "San Juan, Argentina",
+                "rms": null,
+                "sig": 842,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 249125184700,
+                "title": "M 7.4 - San Juan, Argentina",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227869613,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000rp1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -175.406,
+                    -25.856,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000qzg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000qzg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000qzg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc101077a,gcmt19771010115353,iscgem691647,usp0000qzg,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "south of Tonga",
+                "rms": null,
+                "sig": 798,
+                "sources": ",gcmt,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 245332433600,
+                "title": "M 7.2 - south of Tonga",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,",
+                "tz": null,
+                "updated": 1478738911003,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qzg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -20.508,
+                    -59.426,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000qbd",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000qbd",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000qbd&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc082677a,gcmt19770826195001,iscgem695123,usp0000qbd,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "east of the South Sandwich Islands",
+                "rms": null,
+                "sig": 776,
+                "sources": ",gcmt,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 241473001400,
+                "title": "M 7.1 - east of the South Sandwich Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,",
+                "tz": null,
+                "updated": 1478738639858,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qbd"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    118.464,
+                    -11.085,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000q62",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000q62",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000q62&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmt19770819060855,iscgem694739,usp0000q62,atlas19770819060855,",
+                "mag": 7.9,
+                "magType": "ms",
+                "mmi": 6.3,
+                "net": "us",
+                "nst": null,
+                "place": "south of Sumbawa, Indonesia",
+                "rms": null,
+                "sig": 960,
+                "sources": ",gcmt,iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 240818935200,
+                "title": "M 7.9 - south of Sumbawa, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120235176,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000q62"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    155.538,
+                    -8.031,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000px4",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000px4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000px4&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc072977a,gcmt19770729111545,atlas19770729111542,iscgem696545,usp0000px4,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": 6,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 798,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 239022945300,
+                "title": "M 7.2 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227853687,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000px4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    160.731,
+                    -9.965,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000nh4",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000nh4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000nh4&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc042177a,gcmt19770421042409,atlas19770421042412,iscgem700084,usp0000nh4,",
+                "mag": 7.5,
+                "magType": "ms",
+                "mmi": 6.8,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 865,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 230444649600,
+                "title": "M 7.5 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227843543,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000nh4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    160.822,
+                    -9.844,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000ngh",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000ngh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000ngh&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtm042077e,gcmt19770420234913,atlas19770420234912,iscgem700054,usp0000ngh,",
+                "mag": 7.5,
+                "magType": "ms",
+                "mmi": 7.6,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 865,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 230428153100,
+                "title": "M 7.5 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227842264,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ngh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    160.348,
+                    -9.89,
+                    19
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000ngg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000ngg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000ngg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtm042077d,gcmt19770420234250,atlas19770420234254,iscgem700053,usp0000ngg,",
+                "mag": 7.5,
+                "magType": "ms",
+                "mmi": 6.5,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 865,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 230427770500,
+                "title": "M 7.5 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227841591,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ngg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -172.095,
+                    -16.696,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000n82",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000n82",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000n82&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc040277a,gcmt19770402071522,iscgem699272,usp0000n82,",
+                "mag": 7.6,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Samoa Islands region",
+                "rms": null,
+                "sig": 889,
+                "sources": ",gcmt,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 228813322700,
+                "title": "M 7.6 - Samoa Islands region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,",
+                "tz": null,
+                "updated": 1478737826724,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000n82"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.327,
+                    16.773,
+                    37
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000myv",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000myv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000myv&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc031877a,gcmt19770318214352,atlas19770318214354,iscgem701252,usp0000myv,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 7.6,
+                "net": "us",
+                "nst": null,
+                "place": "Luzon, Philippines",
+                "rms": null,
+                "sig": 754,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 227569432400,
+                "title": "M 7.0 - Luzon, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227833547,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000myv"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 10,
+        "generated": 1497987839000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1977-1-01&endtime=1977-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

@@ -105,12 +105,12 @@ if __name__=='__main__':
     """
     #points = pull_points_from_nyc_data(data)
 
-    for i in range(2000,2018):
-        f = open('./quake_data/quake-'+str(i)+'-adjusted.json','r')
-        points = json.loads(f.read())
+    points = []
+    f = open('./quake_data/quakes-adjusted.json','r')
+    points = json.loads(f.read())
 
     # Find the clusters from our earth quake data files
-    mbrs = calculate_mbrs(points,10,5,debug=True)
+    mbrs = calculate_mbrs(points,15,5,debug=True)
 
     # Remove the cluster that contains all the points NOT in a cluster
     del mbrs[-1]
@@ -120,5 +120,5 @@ if __name__=='__main__':
 
     # Write the found clusters to an output file to be displayed later
     f = open(output_file,'w')
-    f.write(json.dumps(mbrs, sort_keys=True,indent=4, separators=(',', ': ')))
+    f.write(json.dumps(mbrs, sort_keys=False,indent=4, separators=(',', ': ')))
     f.close()

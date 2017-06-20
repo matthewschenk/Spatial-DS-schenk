@@ -1,0 +1,257 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -75.675,
+                -14.993,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "near the coast of central Peru",
+        "rms": 1.11,
+        "sig": 912,
+        "time": 847817984030,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -178.31,
+                -20.69,
+                550.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "Fiji region",
+        "rms": 0.9,
+        "sig": 842,
+        "time": 839284702090,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                120.45,
+                1,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Minahasa, Sulawesi, Indonesia",
+        "rms": 1.2,
+        "sig": 754,
+        "time": 838045175770,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.589,
+                -7.137,
+                587.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "Flores Sea",
+        "rms": 1.2,
+        "sig": 960,
+        "time": 835010538540,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                125.154,
+                12.614,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Samar, Philippines",
+        "rms": 0.9,
+        "sig": 776,
+        "time": 834517375730,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -176.847,
+                51.478,
+                26.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwc",
+        "place": "Andreanof Islands, Aleutian Islands, Alaska",
+        "rms": 1,
+        "sig": 820,
+        "time": 834420296000,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.632,
+                51.564,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "Andreanof Islands, Aleutian Islands, Alaska",
+        "rms": 0.9,
+        "sig": 960,
+        "time": 834379415480,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -42.254,
+                10.797,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "northern Mid-Atlantic Ridge",
+        "rms": 1.1,
+        "sig": 754,
+        "time": 833683929550,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.999,
+                -6.518,
+                44
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Bougainville region, Papua New Guinea",
+        "rms": 1,
+        "sig": 798,
+        "time": 830788841090,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.036,
+                -24.061,
+                110.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwb",
+        "place": "south of the Fiji Islands",
+        "rms": 1,
+        "sig": 798,
+        "time": 829614654670,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -98.07,
+                15.978,
+                21.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "offshore Oaxaca, Mexico",
+        "rms": 1.2,
+        "sig": 776,
+        "time": 825217695870,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -79.587,
+                -9.593,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "off the coast of northern Peru",
+        "rms": 1.2,
+        "sig": 865,
+        "time": 824907061300,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                136.952,
+                -0.891,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 8.2,
+        "magType": "mw",
+        "place": "Biak region, Indonesia",
+        "rms": 1.3,
+        "sig": 1034,
+        "time": 824536770550,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.892,
+                45.324,
+                42.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": 1.1,
+        "sig": 798,
+        "time": 823729006300,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                119.931,
+                0.729,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mw",
+        "place": "Minahasa, Sulawesi, Indonesia",
+        "rms": 1.2,
+        "sig": 960,
+        "time": 820483510830,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]

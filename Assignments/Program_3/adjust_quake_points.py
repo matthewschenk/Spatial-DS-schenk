@@ -47,7 +47,7 @@ def adjust_location_coords(extremes,points,width,height):
         x = float(x)
         y = float(y)
         xprime = (x - minx) / deltax         # val (0,1)
-        yprime = 1.0 - ((y - miny) / deltay) # val (0,1)
+        yprime = ((y - miny) / deltay) # val (0,1)
         adjx = int(xprime*width)
         adjy = int(yprime*height)
         adjusted.append((adjx,adjy))
@@ -55,38 +55,41 @@ def adjust_location_coords(extremes,points,width,height):
 
 if __name__=='__main__':
 
-    for i in range(2000,2018):
+    data = []
+    for i in range(1960,2017):
         # Open our condensed json file to extract points
         f = open('./quake_data/quake-'+str(i)+'-condensed.json','r')
-        data = json.loads(f.read())
+        line = json.loads(f.read())
+        for points in line:
+            data.append(points)
         
-        allx = []
-        ally = []
-        points = []
+    allx = []
+    ally = []
+    points = []
 
-        # Loop through converting lat/lon to x/y and saving extreme values. 
-        for quake in data:
-            #st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
-            lon = quake['geometry']['coordinates'][0]
-            lat = quake['geometry']['coordinates'][1]
-            x,y = (mercX(lon),mercY(lat))
-            allx.append(x)
-            ally.append(y)
-            points.append((x,y))
+    # Loop through converting lat/lon to x/y and saving extreme values. 
+    for quake in data:
+        #st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
+        lon = quake['geometry']['coordinates'][0]
+        lat = quake['geometry']['coordinates'][1]
+        x,y = (mercX(lon),mercY(lat))
+        allx.append(x)
+        ally.append(y)
+        points.append((x,y))
 
-        # Create dictionary to send to adjust method
-        extremes = {}
-        extremes['max_x'] = max(allx)
-        extremes['min_x'] = min(allx)
-        extremes['max_y'] = max(ally)
-        extremes['min_y'] = min(ally)
+    # Create dictionary to send to adjust method
+    extremes = {}
+    extremes['max_x'] = max(allx)
+    extremes['min_x'] = min(allx)
+    extremes['max_y'] = max(ally)
+    extremes['min_y'] = min(ally)
 
-        # Get adjusted points
-        screen_width = 1024
-        screen_height = 512
-        adj = adjust_location_coords(extremes,points,screen_width,screen_height)
+    # Get adjusted points
+    screen_width = 1024
+    screen_height = 512
+    adj = adjust_location_coords(extremes,points,screen_width,screen_height)
 
-        # Save adjusted points
-        f = open('./quake_data/quake-'+str(i)+'-adjusted.json','w')
-        f.write(json.dumps(adj, sort_keys=True,indent=4, separators=(',', ': ')))
-        f.close()
+    # Save adjusted points
+    f = open('./quake_data/quakes-adjusted.json','w')
+    f.write(json.dumps(adj, sort_keys=True,indent=4, separators=(',', ': ')))
+    f.close()

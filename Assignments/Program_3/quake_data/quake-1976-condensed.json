@@ -1,0 +1,240 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                44.029,
+                39.121,
+                36
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "ms",
+        "place": "Turkey-Iran border region",
+        "rms": null,
+        "sig": 820,
+        "time": 217686138800,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                139.918,
+                -4.517,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Papua, Indonesia",
+        "rms": null,
+        "sig": 776,
+        "time": 215405467600,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                124.023,
+                6.262,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "ms",
+        "place": "Mindanao, Philippines",
+        "rms": null,
+        "sig": 960,
+        "time": 209059867300,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                118.401,
+                39.664,
+                26
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "ms",
+        "place": "Hebei, China",
+        "rms": null,
+        "sig": 842,
+        "time": 207398735200,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                117.978,
+                39.57,
+                23
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Tianjin-Hebei border region, China",
+        "rms": null,
+        "sig": 865,
+        "time": 207344574600,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -78.127,
+                7.409,
+                3
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Panama",
+        "rms": null,
+        "sig": 754,
+        "time": 205965707500,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                140.091,
+                -4.603,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Papua, Indonesia",
+        "rms": null,
+        "sig": 776,
+        "time": 204578336900,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                96.318,
+                3.397,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "northern Sumatra, Indonesia",
+        "rms": null,
+        "sig": 754,
+        "time": 204151993400,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                98.71,
+                24.531,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Myanmar-China border region",
+        "rms": null,
+        "sig": 754,
+        "time": 202226418500,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                63.472,
+                40.381,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "western Uzbekistan",
+        "rms": null,
+        "sig": 754,
+        "time": 201149920600,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                63.773,
+                40.311,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "western Uzbekistan",
+        "rms": null,
+        "sig": 754,
+        "time": 197779227000,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -89.101,
+                15.324,
+                5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Guatemala",
+        "rms": null,
+        "sig": 865,
+        "time": 192272503400,
+        "types": ",focal-mechanism,origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.123,
+                44.915,
+                41
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 754,
+        "time": 191066724100,
+        "types": ",focal-mechanism,origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.657,
+                -28.427,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "ms",
+        "place": "Kermadec Islands region",
+        "rms": null,
+        "sig": 985,
+        "time": 190486053500,
+        "types": ",focal-mechanism,origin,"
+    }
+]

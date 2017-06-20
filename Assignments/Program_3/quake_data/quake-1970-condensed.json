@@ -1,0 +1,257 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                151.613,
+                52.301,
+                647.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Sea of Okhotsk",
+        "rms": null,
+        "sig": 820,
+        "time": 20886370000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -72.532,
+                -1.597,
+                644.8
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mw",
+        "place": "Colombia",
+        "rms": null,
+        "sig": 985,
+        "time": 18292085000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                95.34,
+                25.977,
+                76.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Myanmar",
+        "rms": null,
+        "sig": 754,
+        "time": 18094582000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                131.782,
+                32.053,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Kyushu, Japan",
+        "rms": null,
+        "sig": 754,
+        "time": 17793674000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -131.055,
+                51.692,
+                18.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Haida Gwaii Region, Canada",
+        "rms": null,
+        "sig": 842,
+        "time": 15080953000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -64.499,
+                -54.476,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Tierra del Fuego, Argentina region",
+        "rms": null,
+        "sig": 798,
+        "time": 14296491000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -74.07,
+                -52.028,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "near the coast of Magallanes, Chile",
+        "rms": null,
+        "sig": 754,
+        "time": 14169611000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                158.902,
+                -59.232,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Macquarie Island region",
+        "rms": null,
+        "sig": 820,
+        "time": 13970794000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -78.737,
+                -9.183,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mw",
+        "place": "near the coast of northern Peru",
+        "rms": null,
+        "sig": 960,
+        "time": 13033409000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                140.23,
+                27.236,
+                390
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Bonin Islands, Japan region",
+        "rms": null,
+        "sig": 776,
+        "time": 12657907000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -92.653,
+                14.52,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "offshore Chiapas, Mexico",
+        "rms": null,
+        "sig": 820,
+        "time": 10245695000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                121.63,
+                15.791,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Luzon, Philippines",
+        "rms": null,
+        "sig": 842,
+        "time": 8314446000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -174.915,
+                52.487,
+                164.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Andreanof Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 776,
+        "time": 5050353000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                126.682,
+                6.785,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Mindanao, Philippines",
+        "rms": null,
+        "sig": 798,
+        "time": 821227000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                102.543,
+                24.185,
+                11.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Yunnan, China",
+        "rms": null,
+        "sig": 776,
+        "time": 320441000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

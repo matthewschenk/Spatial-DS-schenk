@@ -1,0 +1,501 @@
+{
+    "bbox": [
+        -176.248,
+        -45.785,
+        15,
+        143.316,
+        39.869,
+        65
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -176.248,
+                    -24.678,
+                    30
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem880846",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "880846",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem880846&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem880846,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "south of the Fiji Islands",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -287255233000,
+                "title": "M 7.2 - south of the Fiji Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880846"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.918,
+                    -6.775,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem880820",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "880820",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem880820&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem880820,atlas19601120220200,",
+                "mag": 7.6,
+                "magType": "mw",
+                "mmi": 9.2,
+                "net": "iscgem",
+                "nst": null,
+                "place": "near the coast of northern Peru",
+                "rms": null,
+                "sig": 889,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -287546283000,
+                "title": "M 7.6 - near the coast of northern Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119585502,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880820"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.031,
+                    -38.467,
+                    20
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem880670",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "880670",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem880670&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem880670,",
+                "mag": 7.4,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "off the coast of Araucania, Chile",
+                "rms": null,
+                "sig": 842,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -289235641000,
+                "title": "M 7.4 - off the coast of Araucania, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543175000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880670"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.917,
+                    -38.154,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem879577",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "879577",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem879577&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem879577,atlas19600620020115,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 7.8,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Araucania, Chile",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -300837526000,
+                "title": "M 7.0 - Araucania, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119577694,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879577"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.889,
+                    -45.785,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem879416",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "879416",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem879416&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem879416,atlas19600606055549,",
+                "mag": 7.8,
+                "magType": "mw",
+                "mmi": 7.3,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Aisen, Chile",
+                "rms": null,
+                "sig": 936,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -302033052000,
+                "title": "M 7.8 - Aisen, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119576736,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879416"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.407,
+                    -38.143,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "official19600522191120_30",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "19600522191120_30",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19600522191120_30&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem879136,atlas19600522191117,official19600522191120_30,",
+                "mag": 9.5,
+                "magType": "mw",
+                "mmi": 9.4,
+                "net": "official",
+                "nst": null,
+                "place": "Bio-Bio, Chile",
+                "rms": null,
+                "sig": 1388,
+                "sources": ",iscgem,atlas,official,",
+                "status": "automatic",
+                "time": -303281320000,
+                "title": "M 9.5 - Bio-Bio, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",general-header,origin,shakemap,trump-origin,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227389852,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19600522191120_30"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.039,
+                    -38.061,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "official19600522185602_30",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "19600522185602_30",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19600522185602_30&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem879134,official19600522185602_30,atlas19600522185604,",
+                "mag": 7.8,
+                "magType": "mw",
+                "mmi": 9.8,
+                "net": "official",
+                "nst": null,
+                "place": "Araucania, Chile",
+                "rms": null,
+                "sig": 936,
+                "sources": ",iscgem,official,atlas,",
+                "status": "automatic",
+                "time": -303282238000,
+                "title": "M 7.8 - Araucania, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",general-header,origin,shakemap,trump-origin,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119572905,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19600522185602_30"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.017,
+                    -37.775,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem879127",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "879127",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem879127&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem879127,atlas19600522103044,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 7.3,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Bio-Bio, Chile",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -303312556000,
+                "title": "M 7.1 - Bio-Bio, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119571951,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879127"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.353,
+                    -37.824,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem879106",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "879106",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem879106&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem879106,atlas19600521100254,",
+                "mag": 8.1,
+                "magType": "mw",
+                "mmi": 8.4,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Bio-Bio, Chile",
+                "rms": null,
+                "sig": 1009,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -303400623000,
+                "title": "M 8.1 - Bio-Bio, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119570994,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879106"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.316,
+                    39.635,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem878607",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "878607",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem878607&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem878607,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "off the east coast of Honshu, Japan",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -308532992000,
+                "title": "M 7.0 - off the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543174000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878607"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.228,
+                    39.869,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem878564",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "878564",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem878564&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem878564,",
+                "mag": 8,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "off the east coast of Honshu, Japan",
+                "rms": null,
+                "sig": 985,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -308731949000,
+                "title": "M 8.0 - off the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543174000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878564"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.867,
+                    -15.008,
+                    65
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem878016",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "878016",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem878016&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem878016,atlas19600115093016,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 7.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "near the coast of southern Peru",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -314375379000,
+                "title": "M 7.1 - near the coast of southern Peru",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119561282,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878016"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 12,
+        "generated": 1497987830000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1960-1-01&endtime=1960-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

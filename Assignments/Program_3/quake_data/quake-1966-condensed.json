@@ -1,0 +1,104 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -15.611,
+                -1.571,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "north of Ascension Island",
+        "rms": null,
+        "sig": 754,
+        "time": -101059106000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -78.228,
+                -10.665,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 8.1,
+        "magType": "mw",
+        "place": "near the coast of central Peru",
+        "rms": null,
+        "sig": 1009,
+        "time": -101182680000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                128.49,
+                2.388,
+                115
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mw",
+        "place": "Halmahera, Indonesia",
+        "rms": null,
+        "sig": 912,
+        "time": -104553844000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                124.583,
+                -7.24,
+                531.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Banda Sea",
+        "rms": null,
+        "sig": 754,
+        "time": -111295853000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                161.006,
+                -10.318,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 776,
+        "time": -111970810000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.583,
+                24.122,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mw",
+        "place": "Taiwan region",
+        "rms": null,
+        "sig": 865,
+        "time": -120122920000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

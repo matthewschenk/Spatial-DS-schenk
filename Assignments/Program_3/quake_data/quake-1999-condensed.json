@@ -1,0 +1,274 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                168.214,
+                -16.423,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Vanuatu",
+        "rms": 1.2,
+        "sig": 865,
+        "time": 943622475570,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                148.763,
+                -6.351,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 1.12,
+        "sig": 754,
+        "time": 943019806450,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                88.976,
+                -1.339,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "South Indian Ocean",
+        "rms": 0.99,
+        "sig": 754,
+        "time": 942644563220,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                31.161,
+                40.758,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "western Turkey",
+        "rms": 1.11,
+        "sig": 798,
+        "time": 942425839550,
+        "types": ",focal-mechanism,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -116.265,
+                34.6033333,
+                13.73
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "16km SW of Ludlow, CA",
+        "rms": 0.31,
+        "sig": 1576,
+        "time": 940067204460,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,nearby-cities,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -96.931,
+                16.059,
+                60.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Oaxaca, Mexico",
+        "rms": 0.93,
+        "sig": 865,
+        "time": 938709075690,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                120.982,
+                23.772,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "Taiwan",
+        "rms": 1.11,
+        "sig": 912,
+        "time": 937849638490,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                29.864,
+                40.748,
+                17
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "western Turkey",
+        "rms": 1.27,
+        "sig": 889,
+        "time": 934848099130,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -97.436,
+                18.386,
+                70
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Puebla, Mexico",
+        "rms": 1.06,
+        "sig": 754,
+        "time": 929479325930,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                152.486,
+                -4.751,
+                73.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 0.95,
+        "sig": 776,
+        "time": 926815880460,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                150.88,
+                -5.159,
+                138
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwb",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 0.93,
+        "sig": 776,
+        "time": 926368382090,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                130.35,
+                43.607,
+                565.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Jilin-Heilongjiang border region, China",
+        "rms": 0.84,
+        "sig": 776,
+        "time": 923577034080,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.568,
+                -5.591,
+                150
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 1.05,
+        "sig": 842,
+        "time": 923310484000,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                121.937,
+                5.397,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Sulu Archipelago, Philippines",
+        "rms": 1.17,
+        "sig": 776,
+        "time": 920537521900,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.697,
+                -12.853,
+                90.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwc",
+        "place": "Santa Cruz Islands",
+        "rms": 1.17,
+        "sig": 820,
+        "time": 918337679470,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.235,
+                -4.596,
+                114.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": 1.34,
+        "sig": 754,
+        "time": 916716933840,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]

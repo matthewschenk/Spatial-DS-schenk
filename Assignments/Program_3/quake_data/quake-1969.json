@@ -1,0 +1,541 @@
+{
+    "bbox": [
+        -10.613,
+        -22.797,
+        10,
+        178.82,
+        57.65,
+        660
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    163.554,
+                    57.65,
+                    35
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem802552",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "802552",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem802552&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem802552,",
+                "mag": 7.4,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "near the east coast of the Kamchatka Peninsula, Russia",
+                "rms": null,
+                "sig": 842,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -3372620000,
+                "title": "M 7.4 - near the east coast of the Kamchatka Peninsula, Russia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543183000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem802552"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    94.489,
+                    2.005,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem802491",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "802491",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem802491&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem802491,atlas19691121020535,",
+                "mag": 7.6,
+                "magType": "mw",
+                "mmi": 5.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "off the west coast of northern Sumatra",
+                "rms": null,
+                "sig": 889,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -3534862000,
+                "title": "M 7.6 - off the west coast of northern Sumatra",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119860774,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem802491"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.647,
+                    43.313,
+                    27.5
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem805782",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "805782",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem805782&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem805782,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Kuril Islands",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -12044456000,
+                "title": "M 7.1 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543183000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem805782"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.385,
+                    43.599,
+                    25
+                ],
+                "type": "Point"
+            },
+            "id": "iscgemsup805431",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "805431",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup805431&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem805430,iscgemsup805431,atlas19690811212737,",
+                "mag": 7.5,
+                "magType": "mw",
+                "mmi": 8.2,
+                "net": "iscgemsup",
+                "nst": null,
+                "place": "Kuril Islands",
+                "rms": null,
+                "sig": 865,
+                "sources": ",iscgem,iscgemsup,atlas,",
+                "status": "automatic",
+                "time": -12277940000,
+                "title": "M 7.5 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119847204,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup805431"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    131.938,
+                    32.15,
+                    38.6
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem810045",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "810045",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem810045&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem810045,atlas19690421071928,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 7.1,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Kyushu, Japan",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -22005632000,
+                "title": "M 7.0 - Kyushu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119838013,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem810045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -10.613,
+                    36.033,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem812637",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "812637",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem812637&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem812637,atlas19690228024033,",
+                "mag": 7.8,
+                "magType": "mw",
+                "mmi": 5.2,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Azores-Cape St. Vincent Ridge",
+                "rms": null,
+                "sig": 936,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -26515168000,
+                "title": "M 7.8 - Azores-Cape St. Vincent Ridge",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119829563,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812637"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    118.904,
+                    -3.201,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem812497",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "812497",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem812497&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem812497,atlas19690223003704,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 4.3,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Sulawesi, Indonesia",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -26954582000,
+                "title": "M 7.0 - Sulawesi, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119828594,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812497"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    126.581,
+                    -6.784,
+                    430.5
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem812115",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "812115",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem812115&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem812115,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Banda Sea",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -27913427000,
+                "title": "M 7.2 - Banda Sea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543182000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812115"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    178.82,
+                    -22.797,
+                    660
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem812084",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "812084",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem812084&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem812084,",
+                "mag": 7.2,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "south of the Fiji Islands",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -27997314000,
+                "title": "M 7.2 - south of the Fiji Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543182000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812084"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    127.306,
+                    4.569,
+                    60
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem813688",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "813688",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem813688&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem813688,atlas19690130102942,",
+                "mag": 7.6,
+                "magType": "mw",
+                "mmi": 6.6,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Kepulauan Talaud, Indonesia",
+                "rms": null,
+                "sig": 889,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -28992619000,
+                "title": "M 7.6 - Kepulauan Talaud, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119826674,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813688"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    167.345,
+                    -14.849,
+                    112.9
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem813304",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "813304",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem813304&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem813304,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": null,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Vanuatu",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,",
+                "status": "automatic",
+                "time": -29912947000,
+                "title": "M 7.1 - Vanuatu",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543182000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813304"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.238,
+                    44.985,
+                    244.7
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem813290",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "813290",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem813290&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem813290,atlas19690119070208,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 5.5,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Hokkaido, Japan region",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -29955471000,
+                "title": "M 7.0 - Hokkaido, Japan region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119826142,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813290"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    158.888,
+                    -7.97,
+                    60
+                ],
+                "type": "Point"
+            },
+            "id": "iscgem812898",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "812898",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem812898&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem812898,atlas19690105132643,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 7.8,
+                "net": "iscgem",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,atlas,",
+                "status": "automatic",
+                "time": -31141997000,
+                "title": "M 7.0 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492119825152,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812898"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 13,
+        "generated": 1497987835000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1969-1-01&endtime=1969-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

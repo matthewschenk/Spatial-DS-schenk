@@ -1,0 +1,501 @@
+{
+    "bbox": [
+        -175.119,
+        -38.183,
+        5,
+        173.497,
+        53.113,
+        54
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.024,
+                    19.334,
+                    5
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000dsc",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000dsc",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000dsc&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem722344,usp0000dsc,atlas19751129144740,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 8.7,
+                "net": "us",
+                "nst": null,
+                "place": "Hawaii region, Hawaii",
+                "rms": null,
+                "sig": 776,
+                "sources": ",iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 186504460400,
+                "title": "M 7.1 - Hawaii region, Hawaii",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227736420,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dsc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.993,
+                    12.54,
+                    50
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000dc1",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000dc1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000dc1&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19751031082804,iscgem723470,usp0000dc1,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": 7.2,
+                "net": "us",
+                "nst": null,
+                "place": "Samar, Philippines",
+                "rms": null,
+                "sig": 798,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 183976082600,
+                "title": "M 7.2 - Samar, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227733747,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dc1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -175.119,
+                    -24.894,
+                    9
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000d42",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000d42",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000d42&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem722791,usp0000d42,",
+                "mag": 7.8,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "south of Tonga",
+                "rms": null,
+                "sig": 936,
+                "sources": ",iscgem,us,",
+                "status": "reviewed",
+                "time": 182270115000,
+                "title": "M 7.8 - south of Tonga",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543191000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000d42"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    166.499,
+                    -12.519,
+                    54
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000d2p",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000d2p",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000d2p&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem722610,usp0000d2p,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Santa Cruz Islands",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,us,",
+                "status": "reviewed",
+                "time": 181866256200,
+                "title": "M 7.0 - Santa Cruz Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543191000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000d2p"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    102.198,
+                    -4.882,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000d0m",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000d0m",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000d0m&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19751001033001,iscgem722406,usp0000d0m,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 6.8,
+                "net": "us",
+                "nst": null,
+                "place": "southern Sumatra, Indonesia",
+                "rms": null,
+                "sig": 754,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 181366198900,
+                "title": "M 7.0 - southern Sumatra, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227727263,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000d0m"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    155.152,
+                    -7.104,
+                    44
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000c2s",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000c2s",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000c2s&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19750720195429,iscgem726380,usp0000c2s,",
+                "mag": 7.7,
+                "magType": "ms",
+                "mmi": 7.5,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 912,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 175118067700,
+                "title": "M 7.7 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227716433,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000c2s"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    155.054,
+                    -6.59,
+                    49
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000c24",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000c24",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000c24&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem726351,usp0000c24,atlas19750720143742,",
+                "mag": 7.9,
+                "magType": "ms",
+                "mmi": 8.1,
+                "net": "us",
+                "nst": null,
+                "place": "Bougainville region, Papua New Guinea",
+                "rms": null,
+                "sig": 960,
+                "sources": ",iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 175099059900,
+                "title": "M 7.9 - Bougainville region, Papua New Guinea",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120133346,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000c24"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.734,
+                    43.024,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000bdp",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000bdp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000bdp&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19750610134719,iscgem727306,usp0000bdp,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Kuril Islands",
+                "rms": null,
+                "sig": 754,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 171640034500,
+                "title": "M 7.0 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543190000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000bdp"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -17.649,
+                    35.997,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000b6e",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000b6e",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000b6e&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem729431,usp0000b6e,",
+                "mag": 7.9,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Azores-Cape St. Vincent Ridge",
+                "rms": null,
+                "sig": 960,
+                "sources": ",iscgem,us,",
+                "status": "reviewed",
+                "time": 170327511500,
+                "title": "M 7.9 - Azores-Cape St. Vincent Ridge",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543190000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000b6e"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.232,
+                    -38.183,
+                    6
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000az9",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000az9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000az9&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19750510142743,iscgem728800,usp0000az9,",
+                "mag": 7.7,
+                "magType": "ms",
+                "mmi": 9.4,
+                "net": "us",
+                "nst": null,
+                "place": "Bio-Bio, Chile",
+                "rms": null,
+                "sig": 912,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 168964058700,
+                "title": "M 7.7 - Bio-Bio, Chile",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227706847,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000az9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.58,
+                    40.641,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00009ss",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00009ss",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00009ss&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19750204113607,iscgem731961,usp00009ss,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": 9,
+                "net": "us",
+                "nst": null,
+                "place": "Liaoning, China",
+                "rms": null,
+                "sig": 754,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 160745767500,
+                "title": "M 7.0 - Liaoning, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227691123,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00009ss"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    173.497,
+                    53.113,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp00009ry",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00009ry",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00009ry&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem731901,usp00009ry,atlas19750202084341,",
+                "mag": 7.6,
+                "magType": "ms",
+                "mmi": 6.3,
+                "net": "us",
+                "nst": null,
+                "place": "Near Islands, Aleutian Islands, Alaska",
+                "rms": null,
+                "sig": 889,
+                "sources": ",iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 160562619100,
+                "title": "M 7.6 - Near Islands, Aleutian Islands, Alaska",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120113830,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00009ry"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 12,
+        "generated": 1497987838000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1975-1-01&endtime=1975-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

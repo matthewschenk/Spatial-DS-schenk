@@ -1,0 +1,301 @@
+{
+    "bbox": [
+        -102.996,
+        -60.823,
+        27,
+        156.584,
+        50.486,
+        50
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -21.549,
+                    -60.823,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00003qs",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00003qs",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00003qs&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem755194,usp00003qs,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "east of the South Sandwich Islands",
+                "rms": null,
+                "sig": 754,
+                "sources": ",iscgem,us,",
+                "status": "reviewed",
+                "time": 118768057300,
+                "title": "M 7.0 - east of the South Sandwich Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1431543188000,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00003qs"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.442,
+                    43.318,
+                    50
+                ],
+                "type": "Point"
+            },
+            "id": "usp00002bv",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00002bv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00002bv&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19730624024325,iscgem759790,usp00002bv,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 7.7,
+                "net": "us",
+                "nst": null,
+                "place": "Kuril Islands",
+                "rms": null,
+                "sig": 776,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 109737805500,
+                "title": "M 7.1 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227607576,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00002bv"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.785,
+                    43.233,
+                    48
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000270",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000270",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000270&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19730617035503,iscgem759446,usp0000270,",
+                "mag": 7.7,
+                "magType": "ms",
+                "mmi": 8.3,
+                "net": "us",
+                "nst": null,
+                "place": "Hokkaido, Japan region",
+                "rms": null,
+                "sig": 912,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 109137302900,
+                "title": "M 7.7 - Hokkaido, Japan region",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227606942,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000270"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.787,
+                    13.372,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00000z7",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00000z7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00000z7&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19730317083054,iscgem762981,usp00000z7,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 7.2,
+                "net": "us",
+                "nst": null,
+                "place": "Luzon, Philippines",
+                "rms": null,
+                "sig": 754,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 101205051800,
+                "title": "M 7.0 - Luzon, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227598136,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00000z7"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    156.584,
+                    50.486,
+                    27
+                ],
+                "type": "Point"
+            },
+            "id": "usp00000rx",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00000rx",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00000rx&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",iscgem764418,usp00000rx,atlas19730228063755,",
+                "mag": 7.2,
+                "magType": "ms",
+                "mmi": 7,
+                "net": "us",
+                "nst": null,
+                "place": "Kuril Islands",
+                "rms": null,
+                "sig": 798,
+                "sources": ",iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 99729469500,
+                "title": "M 7.2 - Kuril Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120038493,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00000rx"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    100.581,
+                    31.398,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00000dz",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00000dz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00000dz&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19730206103708,iscgem763709,usp00000dz,",
+                "mag": 7.4,
+                "magType": "ms",
+                "mmi": 8,
+                "net": "us",
+                "nst": null,
+                "place": "western Sichuan, China",
+                "rms": null,
+                "sig": 842,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 97843030100,
+                "title": "M 7.4 - western Sichuan, China",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227594140,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00000dz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.996,
+                    18.481,
+                    43
+                ],
+                "type": "Point"
+            },
+            "id": "usp00000bf",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00000bf",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00000bf&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19730130210113,iscgem765442,usp00000bf,",
+                "mag": 7.5,
+                "magType": "ms",
+                "mmi": 9.9,
+                "net": "us",
+                "nst": null,
+                "place": "Michoacan, Mexico",
+                "rms": null,
+                "sig": 865,
+                "sources": ",atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 97275672500,
+                "title": "M 7.5 - Michoacan, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227593460,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00000bf"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 7,
+        "generated": 1497987837000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1973-1-01&endtime=1973-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

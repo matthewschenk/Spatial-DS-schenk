@@ -1,0 +1,240 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                122.536,
+                1.241,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Minahasa, Sulawesi, Indonesia",
+        "rms": 1.18,
+        "sig": 754,
+        "time": 880460073630,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.375,
+                -15.145,
+                123.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Vanuatu",
+        "rms": 1.09,
+        "sig": 754,
+        "time": 879620364300,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                87.325,
+                35.069,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "western Xizang",
+        "rms": 1.38,
+        "sig": 865,
+        "time": 878983372610,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -76.681,
+                -4.368,
+                112
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "northern Peru",
+        "rms": 0.85,
+        "sig": 798,
+        "time": 878019317330,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.22,
+                -30.933,
+                58
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Coquimbo, Chile",
+        "rms": 1.05,
+        "sig": 776,
+        "time": 876877413460,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -176.772,
+                -22.101,
+                167.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mwb",
+        "place": "south of the Fiji Islands",
+        "rms": 0.93,
+        "sig": 936,
+        "time": 876822798150,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.624,
+                -28.683,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Kermadec Islands region",
+        "rms": 0.99,
+        "sig": 754,
+        "time": 874771892150,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -63.486,
+                10.598,
+                19.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Sucre, Venezuela",
+        "rms": 1.25,
+        "sig": 754,
+        "time": 868476253170,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                179.791,
+                -32.115,
+                332.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "south of the Kermadec Islands",
+        "rms": 1.16,
+        "sig": 776,
+        "time": 864602553190,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                59.809,
+                33.825,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwb",
+        "place": "eastern Iran",
+        "rms": 1.12,
+        "sig": 820,
+        "time": 863251049720,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.676,
+                -12.584,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "Santa Cruz Islands",
+        "rms": 0.93,
+        "sig": 912,
+        "time": 861624146430,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                68.208,
+                29.976,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Pakistan",
+        "rms": 1.17,
+        "sig": 776,
+        "time": 857077682360,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -65.719,
+                -21.999,
+                276.2
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Potosi, Bolivia",
+        "rms": 0.94,
+        "sig": 776,
+        "time": 853985722970,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -102.756,
+                18.219,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwb",
+        "place": "Michoacan, Mexico",
+        "rms": 1.09,
+        "sig": 798,
+        "time": 853014506020,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]

@@ -1,0 +1,301 @@
+{
+    "bbox": [
+        -141.593,
+        -46.675,
+        5,
+        165.707,
+        60.642,
+        49
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    59.726,
+                    33.962,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp000147t",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p000147t",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000147t&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",atlas19791127171000,atlas19791127171032,gcmtd112779b,iscgem656234,usp000147t,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 7.8,
+                "net": "us",
+                "nst": null,
+                "place": "eastern Iran",
+                "rms": null,
+                "sig": 776,
+                "sources": ",atlas,atlas,gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 312570632900,
+                "title": "M 7.1 - eastern Iran",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",associate,focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228003659,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000147t"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    161.284,
+                    -10.615,
+                    22
+                ],
+                "type": "Point"
+            },
+            "id": "usp00013nn",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00013nn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00013nn&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtd102379b,gcmt19791023095106,atlas19791023095108,iscgem657742,usp00013nn,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 6.8,
+                "net": "us",
+                "nst": null,
+                "place": "Solomon Islands",
+                "rms": null,
+                "sig": 776,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 309520266700,
+                "title": "M 7.1 - Solomon Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227992339,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013nn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    165.707,
+                    -46.675,
+                    33
+                ],
+                "type": "Point"
+            },
+            "id": "usp00013ck",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00013ck",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00013ck&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmt19791012102522,iscgem656995,usp00013ck,",
+                "mag": 7.4,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "off the west coast of the South Island of New Zealand",
+                "rms": null,
+                "sig": 842,
+                "sources": ",gcmt,iscgem,us,",
+                "status": "reviewed",
+                "time": 308571922300,
+                "title": "M 7.4 - off the west coast of the South Island of New Zealand",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",origin,",
+                "tz": null,
+                "updated": 1478647872538,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013ck"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.04,
+                    -1.679,
+                    5
+                ],
+                "type": "Point"
+            },
+            "id": "usp00012wp",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00012wp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00012wp&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtd091279a,gcmt19790912051751,atlas19790912051756,iscgem658645,usp00012wp,",
+                "mag": 7.9,
+                "magType": "ms",
+                "mmi": 7.6,
+                "net": "us",
+                "nst": null,
+                "place": "Biak region, Indonesia",
+                "rms": null,
+                "sig": 960,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 305961471400,
+                "title": "M 7.9 - Biak region, Indonesia",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227983955,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00012wp"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    122.096,
+                    19.066,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "usp00012mz",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p00012mz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00012mz&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtd082679a,gcmt19790826143122,atlas19790826143123,iscgem660921,usp00012mz,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 6.4,
+                "net": "us",
+                "nst": null,
+                "place": "Babuyan Islands region, Philippines",
+                "rms": null,
+                "sig": 776,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,",
+                "status": "reviewed",
+                "time": 304525882100,
+                "title": "M 7.1 - Babuyan Islands region, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227982005,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00012mz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.276,
+                    17.813,
+                    49
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000zbw",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000zbw",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000zbw&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc031479a,gcmt19790314110716,atlas19790314110714,iscgem668141,usp0000zbw,atlas19790314110715,",
+                "mag": 7.6,
+                "magType": "ms",
+                "mmi": 8.2,
+                "net": "us",
+                "nst": null,
+                "place": "Guerrero, Mexico",
+                "rms": null,
+                "sig": 889,
+                "sources": ",gcmt,gcmt,atlas,iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 290257636300,
+                "title": "M 7.6 - Guerrero, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1492120318974,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000zbw"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -141.593,
+                    60.642,
+                    15
+                ],
+                "type": "Point"
+            },
+            "id": "usp0000z2a",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0000z2a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0000z2a&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",choy19790228212706,gcmtz022879a,gcmt19790228212706,iscgem670396,usp0000z2a,atlas19790228212707,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 8.9,
+                "net": "us",
+                "nst": null,
+                "place": "Southern Alaska",
+                "rms": null,
+                "sig": 776,
+                "sources": ",choy,gcmt,gcmt,iscgem,us,atlas,",
+                "status": "reviewed",
+                "time": 289085226100,
+                "title": "M 7.1 - Southern Alaska",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,origin,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493227950905,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000z2a"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 7,
+        "generated": 1497987840000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1979-1-01&endtime=1979-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

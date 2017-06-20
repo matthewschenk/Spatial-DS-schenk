@@ -1,0 +1,261 @@
+{
+    "bbox": [
+        -98.358,
+        -51.225,
+        10,
+        165.931,
+        36.194,
+        536
+    ],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    165.931,
+                    -12.597,
+                    30.7
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001nvd",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001nvd",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001nvd&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc080582c,usp0001nvd,gcmt19820805203254,iscgem593205,",
+                "mag": 7,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "Santa Cruz Islands",
+                "rms": 1.4,
+                "sig": 754,
+                "sources": ",gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 397427572950,
+                "title": "M 7.0 - Santa Cruz Islands",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738525073,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001nvd"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.702,
+                    36.194,
+                    36.6
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001nkk",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001nkk",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001nkk&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc072382a,usp0001nkk,gcmt19820723142353,atlas19820723142353,iscgem595845,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": 5.3,
+                "net": "us",
+                "nst": null,
+                "place": "near the east coast of Honshu, Japan",
+                "rms": 1,
+                "sig": 776,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 396282233570,
+                "title": "M 7.1 - near the east coast of Honshu, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228140486,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001nkk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    160.513,
+                    -51.225,
+                    10
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001nap",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001nap",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001nap&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtz070782a,usp0001nap,gcmt19820707104303,iscgem595005,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "north of Macquarie Island",
+                "rms": 1.3,
+                "sig": 754,
+                "sources": ",gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 394886583740,
+                "title": "M 7.0 - north of Macquarie Island",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478745598906,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001nap"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.967,
+                    27.929,
+                    536
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001n8w",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001n8w",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001n8w&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc070482a,usp0001n8w,gcmt19820704012007,iscgem594800,",
+                "mag": 7.1,
+                "magType": "mw",
+                "mmi": null,
+                "net": "us",
+                "nst": null,
+                "place": "west of the Bonin Islands, Japan",
+                "rms": 1,
+                "sig": 776,
+                "sources": ",gcmt,us,gcmt,iscgem,",
+                "status": "reviewed",
+                "time": 394593606800,
+                "title": "M 7.1 - west of the Bonin Islands, Japan",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,",
+                "tz": null,
+                "updated": 1478738370947,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001n8w"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.358,
+                    16.558,
+                    33.8
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001mrg",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001mrg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001mrg&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc060782b,usp0001mrg,gcmt19820607105940,atlas19820607105939,iscgem596720,",
+                "mag": 7,
+                "magType": "ms",
+                "mmi": 7.2,
+                "net": "us",
+                "nst": null,
+                "place": "Guerrero, Mexico",
+                "rms": 1.1,
+                "sig": 754,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 392295580160,
+                "title": "M 7.0 - Guerrero, Mexico",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228135887,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001mrg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    124.358,
+                    13.752,
+                    45.7
+                ],
+                "type": "Point"
+            },
+            "id": "usp0001hze",
+            "properties": {
+                "alert": null,
+                "cdi": null,
+                "code": "p0001hze",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001hze&format=geojson",
+                "dmin": null,
+                "felt": null,
+                "gap": null,
+                "ids": ",gcmtc011182a,usp0001hze,gcmt19820111061004,atlas19820111061006,iscgem605354,",
+                "mag": 7.1,
+                "magType": "ms",
+                "mmi": 6.9,
+                "net": "us",
+                "nst": null,
+                "place": "Catanduanes, Philippines",
+                "rms": 1.1,
+                "sig": 776,
+                "sources": ",gcmt,us,gcmt,atlas,iscgem,",
+                "status": "reviewed",
+                "time": 379577406490,
+                "title": "M 7.1 - Catanduanes, Philippines",
+                "tsunami": 0,
+                "type": "earthquake",
+                "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,",
+                "tz": null,
+                "updated": 1493228116039,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001hze"
+            },
+            "type": "Feature"
+        }
+    ],
+    "metadata": {
+        "api": "1.5.8",
+        "count": 6,
+        "generated": 1497987842000,
+        "status": 200,
+        "title": "USGS Earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1982-1-01&endtime=1982-12-01&minmagnitude=7"
+    },
+    "type": "FeatureCollection"
+}

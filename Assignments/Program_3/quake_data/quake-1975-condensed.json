@@ -1,0 +1,206 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -155.024,
+                19.334,
+                5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "ms",
+        "place": "Hawaii region, Hawaii",
+        "rms": null,
+        "sig": 776,
+        "time": 186504460400,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                125.993,
+                12.54,
+                50
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "ms",
+        "place": "Samar, Philippines",
+        "rms": null,
+        "sig": 798,
+        "time": 183976082600,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -175.119,
+                -24.894,
+                9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "ms",
+        "place": "south of Tonga",
+        "rms": null,
+        "sig": 936,
+        "time": 182270115000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.499,
+                -12.519,
+                54
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Santa Cruz Islands",
+        "rms": null,
+        "sig": 754,
+        "time": 181866256200,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                102.198,
+                -4.882,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "southern Sumatra, Indonesia",
+        "rms": null,
+        "sig": 754,
+        "time": 181366198900,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                155.152,
+                -7.104,
+                44
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "ms",
+        "place": "Solomon Islands",
+        "rms": null,
+        "sig": 912,
+        "time": 175118067700,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                155.054,
+                -6.59,
+                49
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "ms",
+        "place": "Bougainville region, Papua New Guinea",
+        "rms": null,
+        "sig": 960,
+        "time": 175099059900,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                147.734,
+                43.024,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "ms",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 754,
+        "time": 171640034500,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -17.649,
+                35.997,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "ms",
+        "place": "Azores-Cape St. Vincent Ridge",
+        "rms": null,
+        "sig": 960,
+        "time": 170327511500,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.232,
+                -38.183,
+                6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "ms",
+        "place": "Bio-Bio, Chile",
+        "rms": null,
+        "sig": 912,
+        "time": 168964058700,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.58,
+                40.641,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Liaoning, China",
+        "rms": null,
+        "sig": 754,
+        "time": 160745767500,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                173.497,
+                53.113,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "ms",
+        "place": "Near Islands, Aleutian Islands, Alaska",
+        "rms": null,
+        "sig": 889,
+        "time": 160562619100,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]

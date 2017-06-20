@@ -1,0 +1,206 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                93.101,
+                8.855,
+                70
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Nicobar Islands, India region",
+        "rms": null,
+        "sig": 776,
+        "time": -167041822000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                164.285,
+                -48.969,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "off the west coast of the South Island of New Zealand",
+        "rms": null,
+        "sig": 889,
+        "time": -167277177000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.249,
+                -5.557,
+                388.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Bougainville region, Papua New Guinea",
+        "rms": null,
+        "sig": 754,
+        "time": -169946925000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.666,
+                -15.534,
+                130
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Vanuatu",
+        "rms": null,
+        "sig": 889,
+        "time": -172912809000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -100.605,
+                18.136,
+                93.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Guerrero, Mexico",
+        "rms": null,
+        "sig": 820,
+        "time": -173205467000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                146.159,
+                43.222,
+                71.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Kuril Islands",
+        "rms": null,
+        "sig": 776,
+        "time": -174350002000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                139.29,
+                38.399,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "near the west coast of Honshu, Japan",
+        "rms": null,
+        "sig": 889,
+        "time": -174945497000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -27.655,
+                -56.323,
+                125
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mw",
+        "place": "South Sandwich Islands region",
+        "rms": null,
+        "sig": 936,
+        "time": -176734844000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                138.969,
+                40.328,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "eastern Sea of Japan",
+        "rms": null,
+        "sig": 754,
+        "time": -178387305000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                95.374,
+                5.57,
+                60
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "northern Sumatra, Indonesia",
+        "rms": null,
+        "sig": 754,
+        "time": -181435690000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.139,
+                0.542,
+                130
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Minahasa, Sulawesi, Indonesia",
+        "rms": null,
+        "sig": 842,
+        "time": -181830591000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -147.339,
+                60.908,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 9.2,
+        "magType": "mw",
+        "place": "Southern Alaska",
+        "rms": null,
+        "sig": 2126,
+        "time": -181859024000,
+        "types": ",dyfi,general-header,general-link,impact-text,origin,shakemap,trump-origin,trump-shakemap,"
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -142.786,
+                58.679,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mw",
+        "place": "Gulf of Alaska",
+        "rms": null,
+        "sig": 960,
+        "time": 565298599590,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                149.06,
+                -6.266,
+                47.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 1.2,
+        "sig": 842,
+        "time": 561415681640,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.371,
+                -7.288,
+                24.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Bougainville region, Papua New Guinea",
+        "rms": 1.1,
+        "sig": 754,
+        "time": 561045424790,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -172.225,
+                -17.94,
+                16
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mw",
+        "place": "Tonga region",
+        "rms": 1,
+        "sig": 820,
+        "time": 560492346080,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                158.513,
+                -58.893,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "Macquarie Island region",
+        "rms": 1,
+        "sig": 842,
+        "time": 557649613910,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -69.991,
+                -19.022,
+                69.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Tarapaca, Chile",
+        "rms": 1.1,
+        "sig": 798,
+        "time": 555436136750,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                130.791,
+                -5.577,
+                67.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Banda Sea",
+        "rms": 1.1,
+        "sig": 776,
+        "time": 550891973720,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -66.205,
+                -22.767,
+                248.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Jujuy, Argentina",
+        "rms": 1.1,
+        "sig": 754,
+        "time": 544240088520,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -77.821,
+                0.151,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "Colombia-Ecuador border region",
+        "rms": 1.2,
+        "sig": 798,
+        "time": 542002241960,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.701,
+                -24.495,
+                34.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "near the coast of Antofagasta, Chile",
+        "rms": 1.2,
+        "sig": 754,
+        "time": 541940112350,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.161,
+                -24.388,
+                62.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "Antofagasta, Chile",
+        "rms": 1.2,
+        "sig": 889,
+        "time": 541934225280,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                147.689,
+                -6.088,
+                54.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "ms",
+        "place": "eastern New Guinea region, Papua New Guinea",
+        "rms": 1.3,
+        "sig": 842,
+        "time": 539807638390,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -26.916,
+                -60.063,
+                47.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "South Sandwich Islands region",
+        "rms": 1.4,
+        "sig": 754,
+        "time": 539044182090,
+        "types": ",focal-mechanism,impact-text,origin,phase-data,"
+    }
+]

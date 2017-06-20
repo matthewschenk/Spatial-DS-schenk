@@ -1,0 +1,206 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -176.248,
+                -24.678,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mw",
+        "place": "south of the Fiji Islands",
+        "rms": null,
+        "sig": 798,
+        "time": -287255233000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -80.918,
+                -6.775,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mw",
+        "place": "near the coast of northern Peru",
+        "rms": null,
+        "sig": 889,
+        "time": -287546283000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -75.031,
+                -38.467,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mw",
+        "place": "off the coast of Araucania, Chile",
+        "rms": null,
+        "sig": 842,
+        "time": -289235641000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -72.917,
+                -38.154,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "Araucania, Chile",
+        "rms": null,
+        "sig": 754,
+        "time": -300837526000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -72.889,
+                -45.785,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mw",
+        "place": "Aisen, Chile",
+        "rms": null,
+        "sig": 936,
+        "time": -302033052000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.407,
+                -38.143,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 9.5,
+        "magType": "mw",
+        "place": "Bio-Bio, Chile",
+        "rms": null,
+        "sig": 1388,
+        "time": -303281320000,
+        "types": ",general-header,origin,shakemap,trump-origin,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.039,
+                -38.061,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mw",
+        "place": "Araucania, Chile",
+        "rms": null,
+        "sig": 936,
+        "time": -303282238000,
+        "types": ",general-header,origin,shakemap,trump-origin,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.017,
+                -37.775,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "Bio-Bio, Chile",
+        "rms": null,
+        "sig": 776,
+        "time": -303312556000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.353,
+                -37.824,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 8.1,
+        "magType": "mw",
+        "place": "Bio-Bio, Chile",
+        "rms": null,
+        "sig": 1009,
+        "time": -303400623000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.316,
+                39.635,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mw",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 754,
+        "time": -308532992000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.228,
+                39.869,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mw",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": null,
+        "sig": 985,
+        "time": -308731949000,
+        "types": ",origin,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -74.867,
+                -15.008,
+                65
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mw",
+        "place": "near the coast of southern Peru",
+        "rms": null,
+        "sig": 776,
+        "time": -314375379000,
+        "types": ",origin,shakemap,trump-shakemap,"
+    }
+]
