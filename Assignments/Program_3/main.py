@@ -1,3 +1,29 @@
+"""
+Program:
+--------
+
+    Program 3 - DBScan Earthquake Data
+
+Description:
+------------
+    This program initializes an instance of pygame, and sets forth parameters and variables for
+use. It then opens two input files and gathers data from them storing data in list and
+dictionary data structures. These input files are created by running, get_quake_points.py, 
+adjust_quake_points.py, and find_clusters.py. The dictionary is further adjusted to fit the 
+data to the screen. A game loop begins, pushing the background image to the screen, then plotting
+points representing earthquakes of 7.0 magnitude or higher at 5 per 30 ms. Once all earthquakes 
+have been plotted, minimum bounding rectangles, created by running dbscan from find_clusters.py,
+will be plotted with the settings of 15 for epsilon, and 5 for the minimum amount of points.
+The time will be adjusted to last slightly longer with the mbr plotted, and a screenshot will be
+taken of the final image. The earthquake point incrementer will be reset, and the game loop
+will start over as the image populates again.
+
+Name: Matthew Schenk
+Date: 22 June 2017
+"""
+
+
+
 import pygame
 import sys,os
 import json
