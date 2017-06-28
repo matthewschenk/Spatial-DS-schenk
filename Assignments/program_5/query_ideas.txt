@@ -1,16 +1,18 @@
-On mouseclick with circle area search:
+On mouseclick with circle/box area search:
 
 Find the deepest or highest magnitude earthquake,
 	and then closest city/country/airport
 
+Find the most populated city nearest the highest magnitude
+	earthquake
+
 Find the city/country closest to the deepest or highest 
 	magnitude earthquake AND/OR the tallest volcano
 
-Find the deepest earthquake and lowest/highest volcano
-
 Find highest(Altitude) cindercone/shield(Type) volcano
+	and city/country nearest it
 
-Find nearest natural diaster, from selected city/country
+Find nearest natural diaster, from selected/nearest city/country
 
 Find number of natural diasters in/near city/country(Japan)
 

@@ -26,6 +26,6 @@ for k,v in data.items():
 
 #pp.print(all_airports)
 
-out = open('./1000airports.geojson','w')
+out = open('./../1000airports.geojson','w')
 out.write(json.dumps(all_airports, sort_keys=False, indent=4, separators=(',',': ')))
 out.close()
