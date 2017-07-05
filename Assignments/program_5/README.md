@@ -1,5 +1,5 @@
 Hello.
-To use this the following files, here are some helpeful tips and commands:
+To use the following files, here are some helpeful tips and commands:
 
 The data used is stored in the database files folder, in the program_5 folder.
 They are zipped in the geojson_TeacherDB_Files and are in geo.json format.
@@ -7,8 +7,10 @@ I have included two text files here that displays commands on importing the
 data to a MongoDB server.
 
 
+
 Query1
 This python program can be run from the gitbash commandline with:
+
 python query1.py [query_radius] > airport_test.txt
 
 python query1.py 500 > airport_test.txt
@@ -26,10 +28,13 @@ light up and be available to click I would do so knowing that the data had been
 processed.
 
 
+
 Query2
 This python program can be run from the gitbash commandline with:
+
 python query2.py [query_radius]
-pythong query2.py [feature] [field] [field_value] [min/max] [# of results] [query_radius]
+
+python query2.py [feature] [field] [field_value] [min/max] [# of results] [query_radius]
 
 python query2.py 100
 
@@ -39,16 +44,19 @@ Volcanos in red, earthquakes in blue, and meteorites in green. They will then va
 seconds, though a screenshot will be captured and saved as "screen_shot_query2.png".
 
 python query2.py earthquakes mag 7 min 10 200
+
 python query2.py meteroites year 1990 min 30 300
 
 The above commands are sample queries that will show:
 Earthquakes with a magnitude of 7 minimum, 10 results if that many, in a 200 mile search radius upon click
 Meteorites from the year 1990, 30 results if that many, in a 300 mile search radius.
 Both of these will show for a few seconds, be screen captured like above and saved as the same file name.
+In the file itself, when setting sys.argv[x] to variables there are more available fields to choose from.
 
 
 Query3
 This python program can be run from the gitbash commandline with:
+
 python query3.py [feature] [min_pts] [eps]
 
 python query3.py volcanos 5 15
