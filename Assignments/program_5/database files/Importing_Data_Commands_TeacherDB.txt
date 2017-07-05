@@ -1,0 +1,8 @@
+mongoimport --db world_data --collection airports --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\airports.geojson" --jsonArray
+mongoimport --db world_data --collection cities --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\world_cities.geojson" --jsonArray
+mongoimport --db world_data --collection countries --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\countries.geojson" --jsonArray
+mongoimport --db world_data --collection earthquakes --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\earthquakes.geojson" --jsonArray
+mongoimport --db world_data --collection states --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\state_borders.geojson" --jsonArray
+mongoimport --db world_data --collection volcanos --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\volcanos.geojson" --jsonArray
+mongoimport --db world_data --collection meteorites --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\meteorite.geojson" --jsonArray
+mongoimport --db world_data --collection terrorism --type json --file "C:\Users\Matthew Schenk\Documents\Midwestern State University\CMPS 5353\GeoJson_for_Mongo_TeacherDB\geojson\globalterrorism.geojson" --jsonArray

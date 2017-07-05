@@ -9,7 +9,9 @@ class mongoHelper(object):
         self.db_cities = self.client.world_data.cities
         self.db_countries = self.client.world_data.countries
         self.db_earthquakes = self.client.world_data.earthquakes
+        self.db_meteorites = self.client.world_data.meteorties
         self.db_states = self.client.world_data.states
+        self.db_terrorism = self.client.world_data.terrorism
         self.db_volcanos = self.client.world_data.volcanos
 
     def count_collections(self,col_name):

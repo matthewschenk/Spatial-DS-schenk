@@ -1,0 +1,72 @@
+MouseClick(X,Y):  231 148
+Converted:  -98.7890625 35.4606699514953
+MouseClick(X,Y):  649 302
+Converted:  48.1640625 -15.961329081596643
+361.9528074582169
+Austinu2013Bergstrom International Airport
+203.3153425560594
+Dallas/Fort Worth International Airport
+
+Your starting airport is:  DFW
+
+122.13368213639471
+Amborovy Airport
+
+Your destination airport is:  MJN
+
+You will be traveling:  9989.608667720036  miles.
+Memphis United States
+MEM  is  9423.912003218647  miles away
+Cincinnati United States
+CVG  is  9070.279970271415  miles away
+Baltimore United States
+BWI  is  8648.788219411264  miles away
+Boston United States
+BOS  is  8326.129484544823  miles away
+Halifax Canada
+YHZ  is  7938.926970704191  miles away
+Gander Canada
+YQX  is  7516.939526936809  miles away
+St. John's Canada
+YYT  is  7428.3817776069845  miles away
+Nuuk Greenland
+GOH  is  7426.320831372907  miles away
+Kangerlussuaq Greenland
+SFJ  is  7398.028744945216  miles away
+Reykjavik Iceland
+KEF  is  6574.7334861773625  miles away
+Vagar Faroe Islands
+FAE  is  6099.6154198816075  miles away
+Stavanger Norway
+SVG  is  5634.188679322006  miles away
+Hannover Germany
+HAJ  is  5188.085902498781  miles away
+Ljubljana Slovenia
+LJU  is  4712.196245533342  miles away
+Ohrid Macedonia
+OHD  is  4252.890625623821  miles away
+Souda Greece
+CHQ  is  3821.8022052194224  miles away
+Alexandria Egypt
+HBE  is  3401.152966888154  miles away
+Marsa Alam Egypt
+RMF  is  2954.240979383198  miles away
+Port Sudan Sudan
+PZU  is  2501.353359897608  miles away
+Asmara Eritrea
+ASM  is  2196.952051915324  miles away
+Dire Dawa Ethiopia
+DIR  is  1773.1290058839418  miles away
+Galcaio Somalia
+GLK  is  1551.7405399657894  miles away
+Mogadishu Somalia
+MGQ  is  1222.8970391261346  miles away
+ Somalia
+KMU  is  1088.4815130217225  miles away
+Kiembi Samaki Tanzania
+ZNZ  is  811.1948161841136  miles away
+Amborovy Airport
+Moroni Comoros
+HAH  is  352.30761174669084  miles away
+You have arrived at:  MJN
+{'_id': ObjectId('595a7d4ddbb13ee078a88c62'), 'geometry': {'type': 'Point', 'coordinates': [46.3512325287, -15.6668417421]}, 'type': 'Feature', 'properties': {'city': '', 'elevation': 87, 'ap_level': '3', 'country': 'Madagascar', 'sub_continent': 'Southern Africa', 'place_id': 'ChIJt1tXp_f5AyIR79NM9t2eVCg', 'continent': 'Africa', 'icao': 'FMNM', 'ap_name': 'Amborovy Airport', 'country_code': 'MG', 'lat': '-15.6668417421', 'tz': 'Indian/Antananarivo', 'lng': '46.3512325287', 'ap_iata': 'MJN'}}
