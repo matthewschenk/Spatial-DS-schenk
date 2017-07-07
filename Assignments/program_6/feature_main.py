@@ -301,8 +301,11 @@ if __name__=='__main__':
         x,y = p
         if x <= 1024 and y <= 512:
             if x >= 0 and y >= 0:
-                grid[x][y] = grid[x][y] + 10.0 * magquake[quakercounter]
-                quakercounter += 1
+                if feature = 'earthquakes':
+                    grid[x][y] = grid[x][y] + 10.0 * magquake[quakercounter]
+                    quakercounter += 1
+                else:
+                    grid[x][y] = grid[x][y] + 10.0
                 if grid[x][y] > 300:
                     grid[x-1][y-1] += 8.0
                     grid[x][y-1] += 8.0
