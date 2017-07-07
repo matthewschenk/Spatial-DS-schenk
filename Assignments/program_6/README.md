@@ -1,3 +1,5 @@
+All of these programs pull from the MongoDB Database, see program 5 for path details.
+
 Run these programs from the command line:
 
 python main.py
